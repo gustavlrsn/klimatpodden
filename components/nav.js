@@ -1,20 +1,28 @@
-import React from 'react'
-import Link from 'next/link'
+import React from "react";
+import Link from "next/link";
 
-const links = [
-  { href: 'https://zeit.co/now', label: 'ZEIT' },
-  { href: 'https://github.com/zeit/next.js', label: 'GitHub' }
-].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
+const links = [].map(link => {
+  link.key = `nav-link-${link.href}-${link.label}`;
+  return link;
+});
 
 const Nav = () => (
   <nav>
+    <img id="logo" src="/static/klimatpodden-logo.png" width="220" />
     <ul>
-      <li>
-        <Link href='/'>
-          <a>Home</a>
+      <li className="green">
+        <Link href="/">
+          <a>Hem</a>
+        </Link>
+      </li>
+      <li className="blue">
+        <Link href="/">
+          <a>Om Klimatpodden</a>
+        </Link>
+      </li>
+      <li className="pink">
+        <Link href="/">
+          <a>Stötta</a>
         </Link>
       </li>
       {links.map(({ key, href, label }) => (
@@ -26,31 +34,51 @@ const Nav = () => (
 
     <style jsx>{`
       :global(body) {
+        background: #f7f7f2;
         margin: 0;
+        margin-top: 50px;
         font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
           Helvetica, sans-serif;
+      }
+      @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
+      #logo {
       }
       nav {
         text-align: center;
       }
       ul {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
       }
       nav > ul {
         padding: 4px 16px;
       }
       li {
         display: flex;
-        padding: 6px 8px;
+
+        margin: 0px 8px;
+        border-bottom: 3px solid transparent;
+      }
+
+      li.green:hover {
+        border-color: #6fbd62;
+      }
+      li.blue:hover {
+        border-color: #4dbbec;
+      }
+      li.pink:hover {
+        border-color: #ea97d2;
       }
       a {
-        color: #067df7;
+        font-family: "Crimson Text", serif;
+        padding: 6px 0;
+        color: #181818;
+        font-weight: 300;
         text-decoration: none;
-        font-size: 13px;
+        font-size: 27px;
       }
     `}</style>
   </nav>
-)
+);
 
-export default Nav
+export default Nav;
