@@ -56,7 +56,7 @@ const Nav = () => (
       li {
         display: flex;
 
-        margin: 0px 8px;
+        margin: 0px 15px;
         border-bottom: 3px solid transparent;
       }
 
@@ -73,7 +73,8 @@ const Nav = () => (
         font-family: "Crimson Text", serif;
         padding: 6px 0;
         color: #181818;
-        font-weight: 300;
+        font-weight: 400;
+        letter-spacing: 0.6px;
         text-decoration: none;
         font-size: 27px;
       }
