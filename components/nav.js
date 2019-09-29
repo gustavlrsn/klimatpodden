@@ -10,9 +10,9 @@ const Nav = () => (
   <nav>
     <img
       id="logo"
-      src="/static/klimatpodden-logo.png"
+      src="/static/klimatpodden-logo2.png"
       width="220"
-      height="158"
+      height="145"
     />
     <ul>
       <li className="green">
