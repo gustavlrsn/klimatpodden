@@ -3,21 +3,19 @@ backend:
   branch: master
 media_folder: static/img
 collections:
-
-collections:
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "posts"
     label: "Posts"
     folder: "content/posts"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Soundcloud URL", name: "soundcloud_url", widget: "text" }
