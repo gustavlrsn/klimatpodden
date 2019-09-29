@@ -1,7 +1,6 @@
 ---
 title: Prenumerera på Klimatpodden
 ---
-
 # Prenumerera på Klimatpodden
 
 För att du ska få nya avsnitt automatiskt till din mobil, surfplatta eller dator kan du prenumerera via iTunes, Acast, Soundcloud eller Stitcher.
@@ -16,7 +15,3 @@ I Stitcher, säker du efter Klimatpodden och klickar på plustecknet uppe till h
 Gå sedan till favoritlistan och klicka på kugghjulet i högra hörnet för att ladda ner nya avsnitt.
 
 Du kan också lyssna i Acast som finns både i [App-store ](https://itunes.apple.com/se/developer/acast/id838820915?l=en)och på [Google Play](https://play.google.com/store/apps/details?id=com.acast.nativeapp). Sök efter Klimatpodden och klicka på Follow. Lätt som en plätt!
-
-&nbsp;
-
-&nbsp;
