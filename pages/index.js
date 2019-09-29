@@ -1,7 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Nav from "../components/nav";
-import content from "../content/home.md";
+import content from "../content/pages/home.md";
 
 const Home = () => {
   let {
