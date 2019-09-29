@@ -2,6 +2,7 @@ import React from "react";
 import Nav from "../components/nav";
 import Header from "../components/header";
 import markdown from "../content/pages/stotta.md";
+import GlobalStyle from "../components/globalStyle";
 
 const Stotta = () => {
   const { html, attributes } = markdown;
@@ -10,14 +11,11 @@ const Stotta = () => {
     <div>
       <Header />
       <Nav />
+      <GlobalStyle />
 
       <div className="container">
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
-      {/* 
-      <style jsx>{`
-        @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
-      `}</style> */}
     </div>
   );
 };

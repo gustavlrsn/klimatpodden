@@ -4,7 +4,7 @@ import Header from "../components/header";
 import Link from "next/link";
 import fetch from "isomorphic-unfetch";
 import FormData from "form-data";
-import { URLSearchParams } from "url";
+import GlobalStyle from "../components/globalStyle";
 
 const importBlogPosts = async () => {
   // https://medium.com/@shawnstern/importing-multiple-markdown-files-into-a-react-component-with-webpack-7548559fce6f
@@ -26,6 +26,7 @@ const Home = ({ posts }) => {
     <div>
       <Header />
       <Nav />
+      <GlobalStyle />
 
       <div className="container">
         {posts.map(({ attributes, html, slug, soundcloud_embed }) => {
@@ -33,9 +34,7 @@ const Home = ({ posts }) => {
           return (
             <div className="post" key={slug}>
               <h1 className="title">{attributes.title}</h1>
-              <div
-                dangerouslySetInnerHTML={{ __html: soundcloud_embed.html }}
-              />
+              {/* <div dangerouslySetInnerHTML={{ __html: soundcloud_embed }} /> */}
               <div dangerouslySetInnerHTML={{ __html: html }} />
               {/* <iframe
               width="100%"
@@ -51,12 +50,6 @@ const Home = ({ posts }) => {
       </div>
 
       <style jsx>{`
-        @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
-
-        .container {
-          max-width: 750px;
-          margin: 0 auto;
-        }
         .post {
           max-width: 750px;
           margin: 50px auto;
@@ -84,21 +77,23 @@ const Home = ({ posts }) => {
 
 Home.getInitialProps = async () => {
   const data = await importBlogPosts();
-  const posts = data.map(async post => {
-    let formData = new FormData();
-    formData.append("url", post.attributes.soundcloud_url);
-    formData.append("maxheight", 166);
-    formData.append("color", "6fbd62");
-    const res = await fetch("https://soundcloud.com/oembed?format=json", {
-      method: "POST",
-      body: formData
-    });
-    return {
-      ...post,
-      soundcloud_embed: await res.json()
-    };
-  });
+  // const posts = data.map(async post => {
+  //   console.log(post);
+  //   let formData = new FormData();
+  //   formData.append("url", post.attributes.soundcloud_url);
+  //   formData.append("maxheight", 166);
+  //   formData.append("color", "6fbd62");
+  //   const res = await fetch("https://soundcloud.com/oembed?format=json", {
+  //     method: "POST",
+  //     body: formData
+  //   });
+  //   return {
+  //     ...post,
+  //     soundcloud_embed: await res.json()
+  //   };
+  // });
 
-  return { posts: await Promise.all(posts) };
+  // return { posts: await Promise.all(posts) };
+  return { posts: data };
 };
 export default Home;
