@@ -36,6 +36,7 @@ const Home = ({ posts }) => {
               <div
                 dangerouslySetInnerHTML={{ __html: soundcloud_embed.html }}
               />
+              <div dangerouslySetInnerHTML={{ __html: html }} />
               {/* <iframe
               width="100%"
               height="166"
@@ -53,6 +54,8 @@ const Home = ({ posts }) => {
         @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
 
         .container {
+          max-width: 750px;
+          margin: 0 auto;
         }
         .post {
           max-width: 750px;
@@ -83,10 +86,7 @@ Home.getInitialProps = async () => {
   const data = await importBlogPosts();
   const posts = data.map(async post => {
     let formData = new FormData();
-    formData.append(
-      "url",
-      "https://soundcloud.com/klimatpodden/66-cecilia-linden-klimatkompensera-din-livsstil"
-    );
+    formData.append("url", post.attributes.soundcloud_url);
     formData.append("maxheight", 166);
     formData.append("color", "6fbd62");
     const res = await fetch("https://soundcloud.com/oembed?format=json", {
