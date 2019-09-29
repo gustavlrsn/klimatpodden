@@ -1,12 +1,29 @@
 import React from "react";
 import Link from "next/link";
+import { withRouter } from "next/router";
 
-const links = [].map(link => {
+const links = [
+  {
+    href: "/",
+    label: "Home",
+    color: "green"
+  },
+  {
+    href: "/om-klimatpodden",
+    label: "Om Klimatpodden",
+    color: "blue"
+  },
+  {
+    href: "/stotta",
+    label: "Stötta",
+    color: "pink"
+  }
+].map(link => {
   link.key = `nav-link-${link.href}-${link.label}`;
   return link;
 });
 
-const Nav = () => (
+const Nav = ({ router }) => (
   <nav>
     <img
       id="logo"
@@ -15,23 +32,11 @@ const Nav = () => (
       height="145"
     />
     <ul>
-      <li className="green">
-        <Link href="/">
-          <a>Hem</a>
-        </Link>
-      </li>
-      <li className="blue">
-        <Link href="/">
-          <a>Om Klimatpodden</a>
-        </Link>
-      </li>
-      <li className="pink">
-        <Link href="/">
-          <a>Stötta</a>
-        </Link>
-      </li>
-      {links.map(({ key, href, label }) => (
-        <li key={key}>
+      {links.map(({ href, label, color }, key) => (
+        <li
+          key={key}
+          className={color + (router.pathname === href ? " active" : "")}
+        >
           <a href={href}>{label}</a>
         </li>
       ))}
@@ -42,8 +47,7 @@ const Nav = () => (
         background: #f7f7f2;
         margin: 0;
         margin-top: 50px;
-        font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
-          Helvetica, sans-serif;
+        font-family: "Crimson Text", serif;
       }
       @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
       #logo {
@@ -65,13 +69,16 @@ const Nav = () => (
         border-bottom: 3px solid transparent;
       }
 
-      li.green:hover {
+      li.green:hover,
+      li.green.active {
         border-color: #6fbd62;
       }
-      li.blue:hover {
+      li.blue:hover,
+      li.blue.active {
         border-color: #4dbbec;
       }
-      li.pink:hover {
+      li.pink:hover,
+      li.pink.active {
         border-color: #ea97d2;
       }
       a {
@@ -87,4 +94,4 @@ const Nav = () => (
   </nav>
 );
 
-export default Nav;
+export default withRouter(Nav);
