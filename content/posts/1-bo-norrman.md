@@ -9,6 +9,6 @@ date: "2015-03-05"
 
 Vi träffades en regnig dag i mars i fiket på Ekocentrum, vid Vasaplasten i Göteborg och pratade om hur vi ska gå från ord till handling för att skapa ett bättre mer hållbart samhälle, att journalister är för dåligt pålästa när det gäller klimatfrågan och hur vår lust att tävla kan vara en väg framåt.
 
-**På Bo Norrmans **[blogg ](http://zenightowl.blogspot.se/) kan du läsa mer om hans funderingar och iakttagelser.
+**På Bo Norrmans** [blogg](http://zenightowl.blogspot.se/) kan du läsa mer om hans funderingar och iakttagelser.
 
-**Boktips: Läs om varför vi helst inte vill tänka på klimatförändringarna. **[Don’t even think about it- Why our brains are wired to ignore climate change](http://www.climateconviction.org/)
+**Boktips: Läs om varför vi helst inte vill tänka på klimatförändringarna.** [Don’t even think about it- Why our brains are wired to ignore climate change](http://www.climateconviction.org/)
