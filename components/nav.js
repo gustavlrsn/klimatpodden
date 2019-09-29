@@ -8,7 +8,12 @@ const links = [].map(link => {
 
 const Nav = () => (
   <nav>
-    <img id="logo" src="/static/klimatpodden-logo.png" width="220" />
+    <img
+      id="logo"
+      src="/static/klimatpodden-logo.png"
+      width="220"
+      height="158"
+    />
     <ul>
       <li className="green">
         <Link href="/">

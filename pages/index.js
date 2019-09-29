@@ -6,7 +6,7 @@ import content from "../content/home.md";
 const Home = () => {
   let {
     html,
-    attributes: { title, cats }
+    attributes: { title }
   } = content;
 
   return (
@@ -18,39 +18,13 @@ const Home = () => {
 
       <Nav />
 
-      <h1>{title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: html }} />
-      <ul>
-        {cats.map((cat, k) => (
-          <li key={k}>
-            <h2>{cat.name}</h2>
-            <p>{cat.description}</p>
-          </li>
-        ))}
-      </ul>
+      <h1></h1>
 
       <div className="hero">
-        <h1 className="title">Welcome to Next.js!</h1>
-        <p className="description">
-          To get started, edit <code>pages/index.js</code> and save to reload.
-        </p>
+        <h1 className="title">{title}</h1>
 
         <div className="row">
-          <a href="https://nextjs.org/docs" className="card">
-            <h3>Documentation &rarr;</h3>
-            <p>Learn more about Next.js in the documentation.</p>
-          </a>
-          <a href="https://nextjs.org/learn" className="card">
-            <h3>Next.js Learn &rarr;</h3>
-            <p>Learn about Next.js by following an interactive tutorial!</p>
-          </a>
-          <a
-            href="https://github.com/zeit/next.js/tree/master/examples"
-            className="card"
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Find other example boilerplates on the Next.js GitHub.</p>
-          </a>
+          <div dangerouslySetInnerHTML={{ __html: html }} />
         </div>
       </div>
 
