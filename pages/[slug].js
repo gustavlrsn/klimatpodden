@@ -3,7 +3,7 @@ import Nav from "../components/nav";
 import Head from "../components/head";
 import GlobalStyle from "../components/globalStyle";
 
-const Page = ({ markdown, nav }) => {
+const Page = ({ markdown, page, nav }) => {
   if (!markdown) return <div>404</div>;
   const { html, attributes } = markdown;
   return (
@@ -13,7 +13,7 @@ const Page = ({ markdown, nav }) => {
       <GlobalStyle />
 
       <div className="post">
-        <h1>{attributes.title}</h1>
+        {!page && <h1>{attributes.title}</h1>}
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </>
@@ -31,6 +31,7 @@ Page.getInitialProps = async ({ query: { slug } }) => {
   if (pageSlugs.includes(slug)) {
     markdown = await import(`../content/pages/${slug}.md`);
     return {
+      page: true,
       markdown
     };
   }
