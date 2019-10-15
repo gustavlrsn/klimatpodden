@@ -1,5 +1,5 @@
 ---
-title: Prenumerera på Klimatpodden
+title: Prenumerera
 ---
 # Prenumerera på Klimatpodden
 
