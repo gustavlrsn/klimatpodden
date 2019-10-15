@@ -5,7 +5,7 @@ title: Om Klimatpodden
 # Om Klimatpodden
 
 **Klimatpodden** produceras av mig [Ragnhild Larsson](https://twitter.com/ragnhildlarsson), journalist & storyteller som driver produktionsbolaget Konvoj Produktion.
-Signaturmelodin är skapad av [Tommy Kaså](http://firstswede.com/index.html) och loggan är designad av [Hannes Larsson.](https://www.linkedin.com/profile/view?id=AAkAABM_DWgBjLtQAVsUT-jv5Z474NVgsER4wr8&authType=NAME_SEARCH&authToken=IP--&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A322899304%2CauthType%3ANAME_SEARCH%2Cidx%3A1-3-3%2CtarId%3A1441343185379%2Ctas%3AHannes%20Larsson)
+Signaturmelodin är skapad av [Tommy Kaså](http://firstswede.com/index.html) och loggan är designad av [Hannes Larsson](https://www.linkedin.com/profile/view?id=AAkAABM_DWgBjLtQAVsUT-jv5Z474NVgsER4wr8&authType=NAME_SEARCH&authToken=IP--&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A322899304%2CauthType%3ANAME_SEARCH%2Cidx%3A1-3-3%2CtarId%3A1441343185379%2Ctas%3AHannes%20Larsson).
 
 **En regnig dag i början av januari,** 2015, när jag cyklade till jobbet och hade ovanligt mycket tid att tänka över vad jag skulle ägna mig åt det närmaste året, slog det mig plötsligt; Jag ska starta en podd om klimatet. Klimatpodden!
 
