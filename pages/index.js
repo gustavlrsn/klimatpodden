@@ -16,7 +16,7 @@ const Home = ({ posts, nav }) => {
         {posts.map(({ attributes, html, slug }) => {
           return (
             <div className="post" key={slug}>
-              <Link href="/[episode]" as={`/${slug}`}>
+              <Link href="/[slug]" as={`/${slug}`}>
                 <a>
                   <h1>{attributes.title}</h1>
                 </a>
