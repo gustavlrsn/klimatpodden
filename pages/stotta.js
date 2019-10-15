@@ -13,7 +13,7 @@ const Stotta = () => {
       <Nav />
       <GlobalStyle />
 
-      <div className="container">
+      <div className="post">
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </div>

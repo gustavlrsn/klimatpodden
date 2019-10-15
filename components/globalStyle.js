@@ -7,9 +7,16 @@ const GlobalStyle = () => (
       margin-top: 50px;
       font-family: "Crimson Text", serif;
     }
-    .container {
+
+    .post {
       max-width: 750px;
-      margin: 0 auto;
+      margin: 50px auto;
+      background: #ffffff;
+      border: 1px solid #e4e4e4;
+      border-radius: 4px;
+      box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.05);
+      padding: 20px 25px;
+      font-size: 22px;
     }
   `}</style>
 );

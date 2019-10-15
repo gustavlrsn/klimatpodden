@@ -27,9 +27,9 @@ const Nav = ({ router }) => (
   <nav>
     <img
       id="logo"
-      src="/static/klimatpodden-logo2.png"
-      width="220"
-      height="145"
+      src="/static/klimatpodden-logo3.png"
+      width="300"
+      height="130"
     />
     <ul>
       {links.map(({ href, label, color }, key) => (
@@ -43,13 +43,6 @@ const Nav = ({ router }) => (
     </ul>
 
     <style jsx>{`
-      :global(body) {
-        background: #f7f7f2;
-        margin: 0;
-        margin-top: 50px;
-        font-family: "Crimson Text", serif;
-      }
-      @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
       #logo {
       }
       nav {
@@ -82,7 +75,6 @@ const Nav = ({ router }) => (
         border-color: #ea97d2;
       }
       a {
-        font-family: "Crimson Text", serif;
         padding: 6px 0;
         color: #181818;
         font-weight: 400;
