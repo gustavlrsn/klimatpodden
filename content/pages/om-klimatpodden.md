@@ -6,7 +6,7 @@ Signaturmelodin är skapad av [Tommy Kaså](http://firstswede.com/index.html) oc
 
 **En regnig dag i början av januari,** 2015, när jag cyklade till jobbet och hade ovanligt mycket tid att tänka över vad jag skulle ägna mig åt det närmaste året, slog det mig plötsligt; Jag ska starta en podd om klimatet. Klimatpodden!
 
-![](/static/img/img_1277-1-1024x683.jpg)
+![Ragnhild Larsson](/static/img/img_1277-1-1024x683.jpg)
 
 **Som tio-åring på 1960-talet**, deltog min klass i kampanjen Håll Sverige Rent, som gick ut på att gå ut och samla ihop synligt skräp på gator och torg.
 
