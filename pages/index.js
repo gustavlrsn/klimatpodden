@@ -35,7 +35,7 @@ const importBlogPosts = async selectedPage => {
 
 const Home = ({ posts }) => {
   return (
-    <div>
+    <>
       <Header />
       <Nav />
       <GlobalStyle />
@@ -63,7 +63,7 @@ const Home = ({ posts }) => {
           font-weight: 600;
         }
       `}</style>
-    </div>
+    </>
   );
 };
 
