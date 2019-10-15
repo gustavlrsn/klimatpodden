@@ -6,19 +6,31 @@ import fetch from "isomorphic-unfetch";
 import FormData from "form-data";
 import GlobalStyle from "../components/globalStyle";
 
-const importBlogPosts = async () => {
+const importBlogPosts = async selectedPage => {
   // https://medium.com/@shawnstern/importing-multiple-markdown-files-into-a-react-component-with-webpack-7548559fce6f
   // second flag in require.context function is if subdirectories should be searched
   const markdownFiles = require
     .context("../content/posts", false, /\.md$/)
     .keys()
     .map(relativePath => relativePath.substring(2));
-  return Promise.all(
+
+  const thing = await Promise.all(
     markdownFiles.map(async path => {
       const markdown = await import(`../content/posts/${path}`);
       return { ...markdown, slug: path.substring(0, path.length - 3) };
     })
   );
+  const elementsPerPage = 10;
+  const indexMin = selectedPage * elementsPerPage;
+  const indexMax = indexMin + elementsPerPage;
+
+  return thing
+    .sort(function(a, b) {
+      // Turn your strings into dates, and then subtract them
+      // to get a value that is either negative, positive, or zero.
+      return new Date(b.attributes.date) - new Date(a.attributes.date);
+    })
+    .filter((x, index) => index >= indexMin && index < indexMax);
 };
 
 const Home = ({ posts }) => {
@@ -29,37 +41,17 @@ const Home = ({ posts }) => {
       <GlobalStyle />
 
       <div className="container">
-        {posts.map(({ attributes, html, slug, soundcloud_embed }) => {
-          console.log({ soundcloud_embed });
+        {posts.map(({ attributes, html, slug }) => {
           return (
             <div className="post" key={slug}>
               <h1 className="title">{attributes.title}</h1>
-              {/* <div dangerouslySetInnerHTML={{ __html: soundcloud_embed }} /> */}
               <div dangerouslySetInnerHTML={{ __html: html }} />
-              {/* <iframe
-              width="100%"
-              height="166"
-              scrolling="no"
-              frameBorder="no"
-              allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/681717674&color=%236fbd62&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-            ></iframe> */}
             </div>
           );
         })}
       </div>
 
       <style jsx>{`
-        .post {
-          max-width: 750px;
-          margin: 50px auto;
-          background: #ffffff;
-          border: 1px solid #e4e4e4;
-          border-radius: 4px;
-          box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.05);
-          padding: 20px 25px;
-          font-size: 22px;
-        }
         .title {
           font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
             Helvetica, sans-serif;
@@ -75,25 +67,11 @@ const Home = ({ posts }) => {
   );
 };
 
-Home.getInitialProps = async () => {
-  const data = await importBlogPosts();
-  // const posts = data.map(async post => {
-  //   console.log(post);
-  //   let formData = new FormData();
-  //   formData.append("url", post.attributes.soundcloud_url);
-  //   formData.append("maxheight", 166);
-  //   formData.append("color", "6fbd62");
-  //   const res = await fetch("https://soundcloud.com/oembed?format=json", {
-  //     method: "POST",
-  //     body: formData
-  //   });
-  //   return {
-  //     ...post,
-  //     soundcloud_embed: await res.json()
-  //   };
-  // });
-
-  // return { posts: await Promise.all(posts) };
+Home.getInitialProps = async ({ query }) => {
+  console.log({ query });
+  let page = query.page;
+  if (!page) page = 0;
+  const data = await importBlogPosts(page);
   return { posts: data };
 };
 export default Home;
