@@ -11,7 +11,7 @@ module.exports = {
       .map(fileName => fileName.substring(0, fileName.length - 3));
 
     const pages = [...pageSlugs, ...postSlugs].reduce(
-      (pages, { slug }) =>
+      (pages, slug) =>
         Object.assign({}, pages, {
           [`/${slug}`]: {
             page: "/[slug]",
