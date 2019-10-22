@@ -30,9 +30,7 @@ const Home = ({ posts, nav }) => {
   );
 };
 
-Home.getInitialProps = async ({ query }) => {
-  let page = query.page;
-  if (!page) page = 0;
+Home.getInitialProps = async ({ query: { page = 1 } }) => {
   const data = await importBlogPosts(page);
   return { posts: data };
 };
