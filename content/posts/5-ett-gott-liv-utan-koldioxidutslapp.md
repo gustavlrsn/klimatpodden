@@ -3,7 +3,7 @@ title: "#5 Maria Grahn - Ett gott liv utan koldioxidutsläpp"
 date: "2015-10-30"
 ---
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230753201&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;am;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230753201&amp;amp;color=001665&amp;amp;auto_play=false&amp;am;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 Maria Grahn är forskare och projektkoordinator på institutionen för [energi och miljö](http://www.chalmers.se/sv/institutioner/ee/Sidor/default.aspx) på Chalmers. Hennes forskning handlar om att försöka förstå på vilket sätt hela världen skulle kunna nå nollutsläpp när det gäller koldioxid.
 

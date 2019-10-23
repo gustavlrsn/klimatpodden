@@ -3,7 +3,7 @@ title: "#22 Svante Sjöstedt – Våra miljömål är tuffa, men möjliga att n�
 date: "2016-09-03"
 ---
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281169267&amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281169267&amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 Från början ville han bli lärare. Men sedan valde han att jobba med det han är allra mest intresserad av - miljöfrågorna. Dagens gäst är **Svante Sjöstedt** , utredare på miljöförvaltningen i Göteborgs stad, där han arbetar med klimat och energifrågor.
 

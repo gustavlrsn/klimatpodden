@@ -3,7 +3,7 @@ title: "#10 David Andersson – Studenter som förändringsagenter"
 date: "2016-01-15"
 ---
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242014873&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242014873&amp;amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 Dagens gäst är **David Andersson**, entreprenör, politiker och koordinator på Chalmers [Challenge Lab](http://www.challengelab.org/), där masterstudenter från hela världen tar sig an våra stora samhällsutmaningar på ett helt nytt sätt. Vi träffades redan i våras för att diskutera studenter som förändringsagenter, om vikten av att skapa neutrala arenor, där olika samhällsaktörer kan mötas , om varför universiteten behöver förändras och hur tio miljarder människor ska kunna leva tillsammans på jorden 2050.
 

@@ -3,7 +3,7 @@ title: "#11 Olivia Linander – Dags för en rättvis klimatomställning"
 date: "2016-01-29"
 ---
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/244334441&amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/244334441&amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 **Olivia Linander** är en klimaträttvisekämpe. Till vardags jobbar hon på [350.org](http://350.org), där hon är kampanjsamordnare för Fossilfree Sverige.
 

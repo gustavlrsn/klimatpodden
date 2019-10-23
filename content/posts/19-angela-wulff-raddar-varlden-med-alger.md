@@ -3,7 +3,7 @@ title: "#19 Angela Wulff – Räddar världen med alger"
 date: "2016-05-21"
 ---
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265190654&amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265190654&amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 Dagens gäst är **[Angela Wulff](http://bioenv.gu.se/personal?userId=xwulan)**, läraren och sportdykaren som blev professor i marin ekologi vid Göteborgs universitet.
 

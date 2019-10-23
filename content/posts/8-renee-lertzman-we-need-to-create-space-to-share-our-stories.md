@@ -3,7 +3,7 @@ title: "#8 Renee Lertzman - We need to create space to share our stories"
 date: "2015-12-11"
 ---
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237066725&amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
+<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237066725&amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 Renee Lertzman is an environmental engagement, research and strategy advisor, living in Berkeley in California. I met Renee in October and had a very inspiring conversation about the psychology of climate change, how climate anxiety is affecting us , why it is crucial that we create space for conversations were we can express our feelings about climate change and why blaming and shaming people for their behavior is not a very effective way to create action and engagement. To be able to create a more sustainable world Renee says that we need people who understand psychology working in partnership with people who understand the global environmental situation and people who understand how organizations operate.
 
