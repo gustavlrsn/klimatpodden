@@ -71,7 +71,7 @@ const Nav = ({ router, nav }) => {
           font-weight: 400;
           letter-spacing: 0.6px;
           text-decoration: none;
-          font-size: 27px;
+          font-size: 22px;
         }
       `}</style>
     </nav>

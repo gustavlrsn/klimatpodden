@@ -38,8 +38,6 @@ export default ({ currentPage, totalPages }) => {
           margin: 5px;
         }
         a {
-          font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
-            Helvetica, sans-serif;
           text-decoration: none;
           padding: 10px 15px;
           border: 1px solid #e4e4e4;
