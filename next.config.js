@@ -10,20 +10,35 @@ module.exports = {
       .readdirSync("./content/posts/")
       .map(fileName => fileName.substring(0, fileName.length - 3));
 
-    const pages = [...pageSlugs, ...postSlugs].reduce(
-      (pages, slug) =>
-        Object.assign({}, pages, {
-          [`/${slug}`]: {
-            page: "/[slug]",
-            query: { slug }
-          }
-        }),
+    const regularPages = [...pageSlugs, ...postSlugs].reduce(
+      (pages, slug) => ({
+        ...pages,
+        [`/${slug}`]: {
+          page: "/[slug]",
+          query: { slug }
+        }
+      }),
       {}
     );
 
-    return Object.assign({}, pages, {
-      "/": { page: "/" }
-    });
+    let paginationPages;
+    const numberOfPages = Math.ceil(postSlugs.length / 10);
+
+    for (let i = 1; i <= numberOfPages; i++) {
+      paginationPages = {
+        ...paginationPages,
+        [`/page/${i}`]: {
+          page: "/",
+          query: { page: i }
+        }
+      };
+    }
+
+    return {
+      ...regularPages,
+      ...paginationPages,
+      "/": { page: "/", query: { page: 1 } }
+    };
   },
   webpack: cfg => {
     cfg.module.rules.push({
