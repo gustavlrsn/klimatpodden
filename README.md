@@ -3,8 +3,13 @@
 - [x] look over slug creation from netlify CMS
 - [x] create exportPathMap
 - [ ] redirects from old url structures (netlify has something?)
-- [ ] pagination
-  - [ ] pagination links
+  - http to https
+  - www to naked domain
+  - and subfolders:
+    - http://www.klimatpodden.se/avsnitt/1-bo-norrman/
+    - http://www.klimatpodden.se/uncategorized/3-kerstin-hamberger-nu-vill-jag-opinionsbilda-for-klimatet/
+- [x] pagination
+  - [x] pagination links
   - [x] create paginated pages in exportPathMap
 - [ ] look over component architecture (reuse post comp. and add a layout comp.)
 - [ ] add dates
@@ -12,3 +17,5 @@
   - [ ] turn leaf into favicon
 - [ ] add social media meta tags
 - [ ] add swish QR code
+- [ ] fix 404 message
+- [ ] add search functionality

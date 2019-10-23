@@ -8,6 +8,10 @@ const GlobalStyle = () => (
       font-family: "Crimson Text", serif;
     }
 
+    a {
+      color: #001665;
+    }
+
     .post {
       max-width: 750px;
       line-height: 30px;

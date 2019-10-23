@@ -3,9 +3,10 @@ import Nav from "../components/nav";
 import Head from "../components/head";
 import Link from "next/link";
 import GlobalStyle from "../components/globalStyle";
+import Pagination from "../components/Pagination";
 import importBlogPosts from "../lib/importBlogPosts";
 
-const Home = ({ posts, nav }) => {
+const Home = ({ posts, nav, currentPage, totalPages }) => {
   return (
     <>
       <Head title="Klimatpodden" />
@@ -25,14 +26,15 @@ const Home = ({ posts, nav }) => {
             </div>
           );
         })}
+        <Pagination currentPage={currentPage} totalPages={totalPages} />
       </div>
     </>
   );
 };
 
 Home.getInitialProps = async ({ query: { page = 1 } }) => {
-  const data = await importBlogPosts(page);
-  return { posts: data };
+  const { posts, totalPages } = await importBlogPosts(page);
+  return { posts, currentPage: page, totalPages };
 };
 
 export default Home;
