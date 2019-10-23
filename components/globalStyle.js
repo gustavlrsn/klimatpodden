@@ -38,6 +38,13 @@ const GlobalStyle = () => (
       max-width: 100%;
       height: auto;
     }
+    .post .date {
+      font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
+        Helvetica, sans-serif;
+      font-size: 14px;
+      display: block;
+      color: rgba(0, 0, 0, 0.6);
+    }
   `}</style>
 );
 

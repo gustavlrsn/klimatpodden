@@ -1,4 +1,5 @@
 import React from "react";
+import moment from "moment";
 import Nav from "../components/nav";
 import Head from "../components/head";
 import GlobalStyle from "../components/globalStyle";
@@ -15,6 +16,11 @@ const Page = ({ markdown, page, nav }) => {
       <div className="post">
         {!page && <h1>{attributes.title}</h1>}
         <div dangerouslySetInnerHTML={{ __html: html }} />
+        {!page && (
+          <span className="date">
+            Publicerat {moment(attributes.date).format("MMM D, YYYY")}
+          </span>
+        )}
       </div>
     </>
   );

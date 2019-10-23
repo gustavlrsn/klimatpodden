@@ -1,7 +1,9 @@
 import React from "react";
+import Link from "next/link";
+import moment from "moment";
+
 import Nav from "../components/nav";
 import Head from "../components/head";
-import Link from "next/link";
 import GlobalStyle from "../components/globalStyle";
 import Pagination from "../components/Pagination";
 import importBlogPosts from "../lib/importBlogPosts";
@@ -23,6 +25,9 @@ const Home = ({ posts, nav, currentPage, totalPages }) => {
                 </a>
               </Link>
               <div dangerouslySetInnerHTML={{ __html: html }} />
+              <span className="date">
+                Publicerat {moment(attributes.date).format("MMM D, YYYY")}
+              </span>
             </div>
           );
         })}
