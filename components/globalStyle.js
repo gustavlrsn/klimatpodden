@@ -31,6 +31,11 @@ const GlobalStyle = () => (
       color: #001665;
     }
 
+    a.title {
+      text-decoration: none;
+      color: #000;
+    }
+
     .content {
       display: flex;
       flex-direction: column;

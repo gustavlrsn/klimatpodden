@@ -20,7 +20,7 @@ const Home = ({ posts, nav, currentPage, totalPages }) => {
           return (
             <div className="post" key={slug}>
               <Link href="/[slug]" as={`/${slug}`}>
-                <a>
+                <a className="title">
                   <h1>{attributes.title}</h1>
                 </a>
               </Link>
