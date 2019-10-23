@@ -9,7 +9,7 @@
 - [x] add dates
 - [x] new vector based logotype
   - [x] turn leaf into favicon
-- [ ] clean up old posts (links to images on wordpress etc)
+- [x] clean up old posts (links to images on wordpress etc)
 - [ ] optimize for mobile
 - [ ] add social media meta tags
 - [x] add swish QR code
