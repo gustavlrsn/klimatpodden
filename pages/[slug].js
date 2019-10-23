@@ -4,7 +4,7 @@ import Nav from "../components/nav";
 import Head from "../components/head";
 import GlobalStyle from "../components/globalStyle";
 
-const Page = ({ markdown, page, nav }) => {
+const Page = ({ markdown, page, nav, slug }) => {
   if (!markdown) return <div>404</div>;
   const { html, attributes } = markdown;
   return (
@@ -12,15 +12,17 @@ const Page = ({ markdown, page, nav }) => {
       <Head title={`${attributes.title} | Klimatpodden`} />
       <Nav nav={nav} />
       <GlobalStyle />
-
-      <div className="post">
-        {!page && <h1>{attributes.title}</h1>}
-        <div dangerouslySetInnerHTML={{ __html: html }} />
-        {!page && (
-          <span className="date">
-            Publicerat {moment(attributes.date).format("MMM D, YYYY")}
-          </span>
-        )}
+      <div className="content">
+        <div className={slug === "stotta" ? "post stotta" : "post"}>
+          {!page && <h1>{attributes.title}</h1>}
+          <div dangerouslySetInnerHTML={{ __html: html }} />
+          {!page && (
+            <span className="date">
+              Publicerat {moment(attributes.date).format("MMM D, YYYY")}
+            </span>
+          )}
+          {slug === "stotta" && <img width="320" src="/static/img/swish.jpg" />}
+        </div>
       </div>
     </>
   );
@@ -38,7 +40,8 @@ Page.getInitialProps = async ({ query: { slug } }) => {
     markdown = await import(`../content/pages/${slug}.md`);
     return {
       page: true,
-      markdown
+      markdown,
+      slug
     };
   }
 
@@ -47,7 +50,7 @@ Page.getInitialProps = async ({ query: { slug } }) => {
   } catch (err) {
     console.error(err);
   }
-  return { markdown };
+  return { markdown, slug };
 };
 
 export default Page;

@@ -15,7 +15,7 @@ const Home = ({ posts, nav, currentPage, totalPages }) => {
       <Nav nav={nav} />
       <GlobalStyle />
 
-      <div>
+      <div className="content">
         {posts.map(({ attributes, html, slug }) => {
           return (
             <div className="post" key={slug}>

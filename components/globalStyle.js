@@ -1,6 +1,16 @@
 const GlobalStyle = () => (
   <style jsx global>{`
     @import url("https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap");
+    html {
+      box-sizing: border-box;
+    }
+
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
     body {
       background: #f7f7f2;
       margin: 0;
@@ -21,16 +31,32 @@ const GlobalStyle = () => (
       color: #001665;
     }
 
+    .content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
     .post {
-      max-width: 750px;
+      max-width: 800px;
       line-height: 30px;
-      margin: 50px auto;
+      margin: 50px 10px;
       background: #ffffff;
       border: 1px solid #e4e4e4;
       border-radius: 4px;
       box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.05);
       padding: 25px;
       font-size: 22px;
+      overflow: hidden;
+    }
+
+    .post.stotta {
+      display: flex;
+      padding: 0;
+    }
+
+    .post.stotta div {
+      padding: 25px;
     }
 
     .post h1 {
