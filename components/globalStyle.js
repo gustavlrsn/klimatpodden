@@ -8,6 +8,15 @@ const GlobalStyle = () => (
       font-family: "Crimson Text", serif;
     }
 
+    #logo {
+      transform: rotate(2deg);
+      transition: 100ms transform ease-in-out;
+    }
+
+    #logo:hover {
+      transform: rotate(-1deg);
+    }
+
     a {
       color: #001665;
     }

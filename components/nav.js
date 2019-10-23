@@ -9,9 +9,9 @@ const Nav = ({ router, nav }) => {
     <nav>
       <img
         id="logo"
-        src="/static/klimatpodden-logo3.png"
+        src="/static/klimatpodden-logo.svg"
         width="300"
-        height="130"
+        height="124.5"
       />
       <ul>
         <li className={(router.asPath === "/" ? "active " : " ") + colors[0]}>
