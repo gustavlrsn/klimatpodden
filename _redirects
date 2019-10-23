@@ -1,0 +1,7 @@
+/avsnitt/*                      /:splat
+/uncategorized/*                /:splat
+/stotta-klimatpodden/           /stotta
+/about/                         /om-klimatpodden
+/kommande-avsnitt/              /prenumerera
+
+http://www.klimatpodden.se/*    https://klimatpodden.se/:splat

@@ -15,9 +15,11 @@
 - [x] add swish QR code
 - [ ] fix 404 message
 - [ ] add search functionality
-- [ ] redirects from old url structures (netlify has something?)
+- [x] redirects from old url structures (netlify has something?)
   - http to https
   - www to naked domain
   - and subfolders:
     - http://www.klimatpodden.se/avsnitt/1-bo-norrman/
     - http://www.klimatpodden.se/uncategorized/3-kerstin-hamberger-nu-vill-jag-opinionsbilda-for-klimatet/
+- [ ] add analytics
+- [ ] add rss(?)
