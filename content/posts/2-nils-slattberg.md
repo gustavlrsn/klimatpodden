@@ -3,8 +3,6 @@ title: "#2 Nils Slättberg - Människor vill för det mesta väl"
 date: "2015-09-17"
 ---
 
-\[caption id="attachment\_170" align="alignleft" width="1000"\][![Nils Slättberg](http://www.klimatpodden.se/wp-content/uploads/2015/09/MG_8865.jpg)](http://www.klimatpodden.se/wp-content/uploads/2015/09/MG_8865.jpg) Foto: Johan Lund\[/caption\]
-
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224343403&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 Dagens gäst är miljöaktivisten, miljöstudenten och musikern **Nils Slättberg**. Vi träffades när vi jobbade tillsammans med aktionen Climate Call i Göteborg, en manifestation på Gustav Adolfs Torg den 21 september 2014, för att uppmana världens ledare att agera för att stoppa klimatförändringarna. Samtidigt samlades människor över hela världen i den hittills största klimatdemonstrationen någonsin.

@@ -3,8 +3,6 @@ title: "#18 Caroline Petersson – Sprid berättelser om en grönare värld"
 date: "2016-05-06"
 ---
 
- [![Caroline Petersson](http://www.klimatpodden.se/wp-content/uploads/2016/05/IMG_6894-1024x683.jpeg)](http://www.klimatpodden.se/wp-content/uploads/2016/05/IMG_6894.jpeg) 
-
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/262746065&amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false&amp;show_artwork=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 **Caroline Petersson** är en av grundarna till **[Camino](http://caminomagasin.se/),** ett mediakooperativ som sprider berättelser om en grönare, godare och skönare framtid. Syftet är att ge andra inspiration att våga följa sin egen väg. Jag träffade Caroline på Caminos kontor på Södra Larmgatan mitt i Göteborg i början av april. Det blev ett inspirerande samtal om varför hon och hennes kollegor startade Camino, om hur man åstadkommer beteendeförändringar  och om varför det är så viktigt att lyfta fram positiva exempel för att skapa engagemang och visa på möjligheter.  Och mycket mer.

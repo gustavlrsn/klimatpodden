@@ -15,4 +15,7 @@ Om jag ska sammanfatta diskussionen: Det bästa sättet att lindra klimatångest
 
 **Några boktips:**
 
-[![boktips klimat](http://www.klimatpodden.se/wp-content/uploads/2017/11/boktips-klimat-918x1024.jpg)](http://www.klimatpodden.se/wp-content/uploads/2017/11/boktips-klimat.jpg)
+- Våga vara operfekt, Brené Brown
+- Doughnut Economics, Kate Raworth
+- Out of the wreckage, George Monbiot
+- Defiant Earth, Clive Hamilton
