@@ -11,12 +11,8 @@ Musik: Edvard Grieg - Lyric Pieces op.12 No 2 (Waltz) med Circus Marcus.
 
 **Mer information:**
 
-**[Benita Matofska](http://www.thepeoplewhoshare.com/benita-matofska/)**: författare, entreprenör och expert på sharing economy. Står bakom Global Sharing week. **[TED-talk](https://www.youtube.com/watch?v=rsmcuz9PemE)** med Benita Matofska om sharing economy.
-
-**[Föreningen Kollaborativ Ekonomi Göteborg](http://www.kollekogbg.se/)**, med en karta över kollaborativa initiativ i Göteborg
-
-**[Emmas blogg](https://emmaohrwall.wordpress.com/)**
-
-**[Emmas c-uppsats](https://emmaohrwall.wordpress.com/2015/11/01/min-c-uppsats-om-kollaborativ-konsumtion-varsagoda/)**: Tillgång framför ägande -drivkrafterna bakom kollaborativ konsumtion.
-
-**[Cradle Net](http://www.cradlenet.se/):** Ett nätverk av arkitekter, kemister, producenter, formgivare, ekostrateger m.fl som arbetar för att tillämpa och sprida kunskap om cirkulär ekonomi.
+- [Benita Matofska](http://www.thepeoplewhoshare.com/benita-matofska/): författare, entreprenör och expert på sharing economy. Står bakom Global Sharing week. [TED-talk](https://www.youtube.com/watch?v=rsmcuz9PemE) med Benita Matofska om sharing economy.
+- [Föreningen Kollaborativ Ekonomi Göteborg](http://www.kollekogbg.se/), med en karta över kollaborativa initiativ i Göteborg
+- [Emmas blogg](https://emmaohrwall.wordpress.com/)
+- [Emmas c-uppsats](https://emmaohrwall.wordpress.com/2015/11/01/min-c-uppsats-om-kollaborativ-konsumtion-varsagoda/): Tillgång framför ägande - drivkrafterna bakom kollaborativ konsumtion.
+- [Cradle Net](http://www.cradlenet.se/): Ett nätverk av arkitekter, kemister, producenter, formgivare, ekostrateger m.fl som arbetar för att tillämpa och sprida kunskap om cirkulär ekonomi.

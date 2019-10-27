@@ -9,6 +9,4 @@ Patrik Franke är manusförfattare och teaterregissör. Han beskriver sig själ
 
 Vi träffades på Patriks kontor på Skeppsholmen i Stockholm den 27 januari för att prata om kulturens roll i miljö- och klimatfrågan, om hur man egentligen skriver en pjäs om klimatfrågan, att vi måste kunna skratta åt eländet och om styrkan i att vara en del av en framväxande folkrörelse.
 
-Du kan läsa mer om Grismanifestet här: [http://www.scenkonstgruppen.se/](http://www.scenkonstgruppen.se/)
-
-och här: [http://scenkonstportalen.riksteatern.se/produktion/3634](http://scenkonstportalen.riksteatern.se/produktion/3634)
+Du kan läsa mer om Grismanifestet här: [http://www.scenkonstgruppen.se/](http://www.scenkonstgruppen.se/) och här: [http://scenkonstportalen.riksteatern.se/produktion/3634](http://scenkonstportalen.riksteatern.se/produktion/3634)

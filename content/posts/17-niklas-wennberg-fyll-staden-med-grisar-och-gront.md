@@ -9,12 +9,8 @@ I dagens avsnitt hälsar vi på i Slaktuset i Göteborg och Stadsjord, en protot
 
 **Mer info:**
 
-**[Stadsjord](http://www.stadsjord.se/)**
-
-**[Stadsnära odling](http://www.stadsnaraodling.se/)**
-
-**[Naturskyddsföreningens rapport om stadsjordbruk](http://www.naturskyddsforeningen.se/sites/default/files/dokument-media/rapport_stadsjordbruk_lagupplost.pdf)**
-
-**[Odlingskooperativet Tillsammans](http://tillsammansodlingen.se/)**
-
-[Green Gothenburg](http://www.greengothenburg.se/sv/goda-exempel/haallbara-staeder/grisar-och-groedor/)
+- [Stadsjord](http://www.stadsjord.se/)
+- [Stadsnära odling](http://www.stadsnaraodling.se/)
+- [Naturskyddsföreningens rapport om stadsjordbruk](http://www.naturskyddsforeningen.se/sites/default/files/dokument-media/rapport_stadsjordbruk_lagupplost.pdf)
+- [Odlingskooperativet Tillsammans](http://tillsammansodlingen.se/)
+- [Green Gothenburg](http://www.greengothenburg.se/sv/goda-exempel/haallbara-staeder/grisar-och-groedor/)

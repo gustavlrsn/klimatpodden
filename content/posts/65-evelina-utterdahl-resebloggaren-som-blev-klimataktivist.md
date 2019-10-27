@@ -7,6 +7,6 @@ date: "2019-08-09"
 
 **Evelina Utterdahl** är resebloggaren som flög världen runt och nu ägnar i stort sett all sin vakna tid åt olika former av klimataktivism. Hon bloggar och instagrammar om hållbarhet, bland annat för [Go Climate Neutral](https://www.goclimateneutral.org/) och är aktiv i [Extinction Rebellion](https://www.extinctionrebellion.se/), rörelsen som startade i Storbrittannien i oktober 2018 och nu har spridit sig till alla världsdelar.
 
-**Följ Evelina på Instagram och Twitter**: @earthwanderess
+**Följ Evelina på Instagram och Twitter**: [@earthwanderess](https://twitter.com/earthwanderess)
 
 Mer info om Evelina och vad hon gör hittar du **[här](https://linktr.ee/earthwanderess)**

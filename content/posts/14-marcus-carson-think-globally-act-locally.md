@@ -11,4 +11,4 @@ Prior to coming to Sweden with his family, Marcus was involved for nearly two de
 
 He received his PhD in Sociology in 2004 from Stockholm University, where he also earned his Associate Professorship in 2009.
 
-**More information about Marcus research:** http://www.sei-international.org/staff?staffid=243
+[More information about Marcus research](http://www.sei-international.org/staff?staffid=243).

@@ -15,4 +15,5 @@ Musik: [Sunset av Kai Engel](http://freemusicarchive.org/music/Kai_Engel/Idea/Ka
 
 Läs mer:
 
-Om projektet [SEVS](http://www.sevs.se), Safe Efficeint Vehicle Solutions, som Maria nämner i programmet. Om Marias [forskning](https://www.chalmers.se/sv/personal/Sidor/maria-grahn.aspx).
+- Om projektet [SEVS](http://www.sevs.se), Safe Efficient Vehicle Solutions, som Maria nämner i programmet
+- Om Marias [forskning](https://www.chalmers.se/sv/personal/Sidor/maria-grahn.aspx)

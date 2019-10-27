@@ -11,12 +11,8 @@ Dagens gäst är **David Andersson**, entreprenör, politiker och koordinator p�
 
 **Mer information**
 
-[Challenge Lab](http://www.challengelab.org/)
-
-Davids bolag [EcoEra](http://ecoera.se/)
-
-[De fyra hållbarhetsprinciperna](http://www.detnaturligasteget.se/var-metod/)
-
-[Chalmers Entreprenörsskola](http://www.entrepreneur.chalmers.se/)
-
-[Miljö- och klimatnämnden i Göteborgs Stad](http://goteborg.se/wps/portal/enheter/fackforvaltning/miljoforvaltningen/!ut/p/z1/lVBNT4QwEP0tHjjKDC2F4g00rIvr6mbJ7tKLoVK6RKQEUOK_t9FEY-JHnNvMvDfvvQEBBxBd-dzocmpMV7a2L0RwR9jVJiEZxZt0c4EkT-Pdbb5K2LUHOygSKHS69RINAkR_31RQBCSkRHL0VRDJqGK8DmVVK88PmWQ8kLD_666wa_yhYoTC8sNP_uIy95DQZbRaZEskzIftP8xkb2q_mNmff0S0WN0a-f6auJOU29iDqtWgBvdpsOPjNPXjmYMOzvPsamN0q9xROfgd42jGCQ5fgNA_PkhWr9engr_QVp-8ArFALRs!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+- [Challenge Lab](http://www.challengelab.org/)
+- Davids bolag [EcoEra](http://ecoera.se/)
+- [De fyra hållbarhetsprinciperna](http://www.detnaturligasteget.se/var-metod/)
+- [Chalmers Entreprenörsskola](http://www.entrepreneur.chalmers.se/)
+- [Miljö- och klimatnämnden i Göteborgs Stad](http://goteborg.se/wps/portal/enheter/fackforvaltning/miljoforvaltningen/!ut/p/z1/lVBNT4QwEP0tHjjKDC2F4g00rIvr6mbJ7tKLoVK6RKQEUOK_t9FEY-JHnNvMvDfvvQEBBxBd-dzocmpMV7a2L0RwR9jVJiEZxZt0c4EkT-Pdbb5K2LUHOygSKHS69RINAkR_31RQBCSkRHL0VRDJqGK8DmVVK88PmWQ8kLD_666wa_yhYoTC8sNP_uIy95DQZbRaZEskzIftP8xkb2q_mNmff0S0WN0a-f6auJOU29iDqtWgBvdpsOPjNPXjmYMOzvPsamN0q9xROfgd42jGCQ5fgNA_PkhWr9engr_QVp-8ArFALRs!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)

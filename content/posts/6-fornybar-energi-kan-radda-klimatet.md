@@ -9,4 +9,8 @@ Thomas Sterner, är miljöekonom och professor på Institutionen för nationalek
 
 **Musik**: Kai Engel Remedy for Melancholy CC BY **Foto:** Ragnhild Larsson
 
-**Läs mer om:** Thomas forskning [här](http://economics.handels.gu.se/personal/professorer/thomas_sterner). Om förnybar [energi](http://www.svd.se/fornybar-energi-kan-bli-raddning-for-klimatet). Den tyska [energiomställningen](http://energytransition.de/)
+**Läs mer om:**
+
+- Thomas forskning [här](http://economics.handels.gu.se/personal/professorer/thomas_sterner)
+- Om förnybar [energi](http://www.svd.se/fornybar-energi-kan-bli-raddning-for-klimatet)
+- Den tyska [energiomställningen](http://energytransition.de/)

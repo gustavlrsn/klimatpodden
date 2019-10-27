@@ -15,8 +15,6 @@ Följ Olivia på Twitter: [@OliviaLinander](https://twitter.com/OliviaLinander?l
 
 **Mer information:**
 
-[350.org](http://350.org/)
-
-[Fossilfree Sverige](http://gofossilfree.org/se/)
-
-[Breakfree 2016](http://breakfree2016.org/)
+- [350.org](http://350.org/)
+- [Fossilfree Sverige](http://gofossilfree.org/se/)
+- [Breakfree 2016](http://breakfree2016.org/)

@@ -11,14 +11,9 @@ Musik: Kindred - The eternal Hunters av League of Legends.
 
 **Länkar:**
 
-[Pers blogg](http://pergrankvist.se)
-
-Pers böcker: [Engagemang](http://pergrankvist.se/batmanputnamochjag/#.VoZ2KTb7J_U) & [CSR i praktiken](http://pergrankvist.se/csripraktiken/#.VoZ2WTb7J_U).
-
-Pers nystartade podd: [Perspektiv](https://soundcloud.com/pergrankvist)
-
-Filmen [Cowspiracy](http://www.cowspiracy.com)
-
-Bilpoolen [Sunfleet](https://www.sunfleet.com)
-
-Bloggen [Green Kitchen Stories](http://www.greenkitchenstories.com) med tips på god vegetarisk mat
+- [Pers blogg](http://pergrankvist.se)
+- Pers böcker: [Engagemang](http://pergrankvist.se/batmanputnamochjag/#.VoZ2KTb7J_U) & [CSR i praktiken](http://pergrankvist.se/csripraktiken/#.VoZ2WTb7J_U).
+- Pers nystartade podd: [Perspektiv](https://soundcloud.com/pergrankvist)
+- Filmen [Cowspiracy](http://www.cowspiracy.com)
+- Bilpoolen [Sunfleet](https://www.sunfleet.com)
+- Bloggen [Green Kitchen Stories](http://www.greenkitchenstories.com) med tips på god vegetarisk mat

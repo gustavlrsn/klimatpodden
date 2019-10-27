@@ -9,6 +9,9 @@ Efter 20 år som meteorolog på SVT valde han att säga upp sig för att jobba h
 
 Musik: La Rencontre av Circus Marcus CC BY NA
 
-**Länkar:** [Pärs blogg](http://www.parholmgren.se) [The Climate Action Tracker,](http://climateactiontracker.org) håller koll på  vad olika länder har gjort och vad de borde göra för att se till att den globala uppvärmningen inte överstiger 2 grader. **[En recension av Marc Lynas bok 6 grader](http://www.svd.se/en-obehaglig-lasning)**
+**Länkar:**
 
-**[Intervju med Pärs förebild Lester Brown](http://www.theguardian.com/profile/lesterbrown)** Han är också författare och har bland annat skrivit [Plan B och 4.0](http://www.earth-policy.org/books/)
+- [Pärs blogg](http://www.parholmgren.se)
+- [The Climate Action Tracker,](http://climateactiontracker.org) håller koll på  vad olika länder har gjort och vad de borde göra för att se till att den globala uppvärmningen inte överstiger 2 grader.
+- [En recension av Marc Lynas bok 6 grader](http://www.svd.se/en-obehaglig-lasning)
+- [Intervju med Pärs förebild Lester Brown](http://www.theguardian.com/profile/lesterbrown) Han är också författare och har bland annat skrivit [Plan B och 4.0](http://www.earth-policy.org/books/)
