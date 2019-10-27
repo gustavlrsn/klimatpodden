@@ -66,6 +66,7 @@ const GlobalStyle = () => (
     }
 
     .post h1 {
+      color: #000;
       margin: 0;
       margin-bottom: 15px;
       width: 100%;
