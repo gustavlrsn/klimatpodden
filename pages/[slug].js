@@ -3,13 +3,18 @@ import moment from "moment";
 import Nav from "../components/nav";
 import Head from "../components/head";
 import GlobalStyle from "../components/globalStyle";
+import firstParagraphFromHtmlString from "../lib/firstParagraph";
 
 const Page = ({ markdown, page, nav, slug }) => {
   if (!markdown) return <div>404</div>;
   const { html, attributes } = markdown;
   return (
     <>
-      <Head title={`${attributes.title} | Klimatpodden`} />
+      <Head
+        title={`${attributes.title} | Klimatpodden`}
+        description={firstParagraphFromHtmlString(html)}
+        slug={slug}
+      />
       <Nav nav={nav} />
       <GlobalStyle />
       <div className="content">

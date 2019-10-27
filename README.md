@@ -11,7 +11,7 @@
   - [x] turn leaf into favicon
 - [x] clean up old posts (links to images on wordpress etc)
 - [ ] optimize for mobile
-- [ ] add social media meta tags
+- [x] add social media meta tags
 - [x] add swish QR code
 - [ ] fix 404 message
 - [ ] add search functionality
@@ -21,5 +21,5 @@
   - and subfolders:
     - http://www.klimatpodden.se/avsnitt/1-bo-norrman/
     - http://www.klimatpodden.se/uncategorized/3-kerstin-hamberger-nu-vill-jag-opinionsbilda-for-klimatet/
-- [ ] add analytics
+- [x] add analytics
 - [ ] add rss(?)

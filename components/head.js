@@ -1,6 +1,10 @@
 import Head from "next/head";
 
-export default ({ title }) => (
+export default ({
+  title = "Klimatpodden",
+  description = "I Klimatpodden möter du aktivister, forskare, entreprenörer och andra som agerar för att stoppa klimatförändringarna.",
+  slug = ""
+}) => (
   <Head>
     <title>{title}</title>
     <link
@@ -32,6 +36,15 @@ export default ({ title }) => (
       name="msapplication-config"
       content="/static/favicons/browserconfig.xml"
     />
+    <meta name="description" content={description} />
     <meta name="theme-color" content="#ffffff" />
+    <meta property="og:image" content="/static/klimatpodden-og.png" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={`https://klimatpodden.se/${slug}`} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="/static/klimatpodden-og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
   </Head>
 );
