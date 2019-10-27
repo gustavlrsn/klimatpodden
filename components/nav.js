@@ -7,12 +7,17 @@ const Nav = ({ router, nav }) => {
 
   return (
     <nav>
-      <img
-        id="logo"
-        src="/static/klimatpodden-logo.svg"
-        width="300"
-        height="124.5"
-      />
+      <Link href="/">
+        <a>
+          <img
+            id="logo"
+            src="/static/klimatpodden-logo.svg"
+            width="300"
+            height="124.5"
+          />
+        </a>
+      </Link>
+
       <ul>
         <li className={(router.asPath === "/" ? "active " : " ") + colors[0]}>
           <Link href="/">
