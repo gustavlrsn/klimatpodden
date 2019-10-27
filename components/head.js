@@ -38,13 +38,21 @@ export default ({
     />
     <meta name="description" content={description} />
     <meta name="theme-color" content="#ffffff" />
-    <meta property="og:image" content="/static/klimatpodden-og.png" />
+    <meta
+      property="og:image"
+      content="https://klimatpodden.se/static/klimatpodden-og.png"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="1200" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={`https://klimatpodden.se/${slug}`} />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content="/static/klimatpodden-og.png" />
+    <meta
+      name="twitter:image"
+      content="https://klimatpodden.se/static/klimatpodden-og.png"
+    />
     <meta name="twitter:card" content="summary_large_image" />
   </Head>
 );
