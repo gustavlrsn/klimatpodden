@@ -14,4 +14,6 @@ Signaturmelodin är skapad av [Tommy Kaså](http://firstswede.com/index.html) oc
 
 **Jag är** **upprörd** över att våra politiker , trots alla vackra ord, inte tar tag i den här frågan på allvar utan fortsätter med business as usual.\
 ****\
-**I Klimatpodden får du möta forskare, aktivister, entreprenörer och alla andra som på olika sätt engagerar sig i klimatkrisen.**  Förhoppningsvis blir du också inspirerad att agera. Det är vår moraliska skyldighet att göra precis allt som står i vår makt för att ställa om och skapa en beboelig planet. Så låt oss göra det. Nu.
+**I Klimatpodden får du möta forskare, aktivister, entreprenörer och alla andra som på olika sätt engagerar sig i klimatkrisen.**  \
+Förhoppningsvis blir du också inspirerad att agera. \
+Det är vår moraliska skyldighet att göra precis allt som står i vår makt för att ställa om och skapa en beboelig planet. Så låt oss göra det. Nu.
