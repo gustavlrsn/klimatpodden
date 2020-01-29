@@ -23,7 +23,7 @@ Det är vår moraliska skyldighet att göra precis allt som står i vår makt f�
 
 \
 **Vill du veta mer om mig och Klimatpodden?** \
-Här är en film som [Erik Garmo](https://www.garmomedia.se/planetfilmer) gjort om mig i sin serie Klimatkämpar:
+Här är en film som [Erik Garmo](https://www.garmomedia.se/planetfilmer) har producerat i sin serie Klimatkämpar:
 
 <iframe src="https://player.vimeo.com/video/339101415?color=66CCA8&title=0&byline=0&portrait=0" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/339101415">Klimatk&auml;mpar: Ragnhild Larsson</a> from <a href="https://vimeo.com/erikgarmo">Erik Garmo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
