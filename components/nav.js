@@ -11,7 +11,7 @@ const Nav = ({ router, nav }) => {
         <a>
           <img
             id="logo"
-            src="/static/klimatpodden-logo.svg"
+            src="/klimatpodden-logo.svg"
             width="300"
             height="124.5"
           />

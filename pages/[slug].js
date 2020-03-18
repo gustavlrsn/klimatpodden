@@ -26,7 +26,7 @@ const Page = ({ markdown, page, nav, slug }) => {
               Publicerat {moment(attributes.date).format("MMM D, YYYY")}
             </span>
           )}
-          {slug === "stotta" && <img width="320" src="/static/img/swish.jpg" />}
+          {slug === "stotta" && <img width="320" src="/img/swish.jpg" />}
         </div>
       </div>
     </>
