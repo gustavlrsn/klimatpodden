@@ -9,8 +9,6 @@ title: Om Klimatpodden
 **Logga**: Hannes Larsson\
 **Hemsida:** Gustav Larsson 
 
-![Ragnhild Larsson]()
-
 I Klimatpodden får du möta forskare, aktivister, entreprenörer och alla andra som på olika sätt engagerar sig i klimatkrisen. \
 Förhoppningsvis blir du också inspirerad att agera. \
 Det är vår moraliska skyldighet att göra precis allt som står i vår makt för att ställa om och skapa en beboelig planet. Så låt oss göra det. Nu.
