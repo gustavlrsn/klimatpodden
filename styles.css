@@ -1,0 +1,51 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+* {
+  @apply antialiased;
+}
+
+html {
+  /* background-color: #f7f7f2; */
+  @apply bg-gray-100;
+}
+
+.post.stotta {
+  display: flex;
+  padding: 0;
+}
+
+.post.stotta div {
+  padding: 25px;
+}
+
+.post h1 {
+  @apply text-3xl;
+  @apply font-semibold;
+  @apply mb-3;
+}
+
+.post a {
+  color: #001665;
+}
+
+.post a.title {
+  @apply text-black;
+}
+.post p {
+  @apply my-4;
+  @apply text-lg;
+  @apply text-gray-900;
+}
+
+#logo {
+  transform: rotate(2deg);
+  transition: 100ms transform ease-in-out;
+}
+
+#logo:hover {
+  transform: rotate(-1deg);
+}

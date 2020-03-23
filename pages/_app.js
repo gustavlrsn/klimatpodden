@@ -3,6 +3,7 @@ import App from "next/app";
 import Router from "next/router";
 import withGA from "next-ga";
 import importNav from "../lib/importNav";
+import "../styles.css";
 
 class MyApp extends App {
   // Only uncomment this method if you have blocking data requirements for

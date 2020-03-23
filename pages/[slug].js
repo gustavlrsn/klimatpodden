@@ -2,7 +2,6 @@ import React from "react";
 import moment from "moment";
 import Nav from "../components/nav";
 import Head from "../components/head";
-import GlobalStyle from "../components/globalStyle";
 import firstParagraphFromHtmlString from "../lib/firstParagraph";
 
 const Page = ({ markdown, page, nav, slug }) => {
@@ -16,9 +15,13 @@ const Page = ({ markdown, page, nav, slug }) => {
         slug={slug}
       />
       <Nav nav={nav} />
-      <GlobalStyle />
-      <div className="content">
-        <div className={slug === "stotta" ? "post stotta" : "post"}>
+
+      <div className="max-w-screen-md mx-auto">
+        <div
+          className={`bg-white px-5 py-4 mb-16 rounded border shadow-sm post overflow-hidden ${
+            slug === "stotta" ? "post stotta" : "post"
+          }`}
+        >
           {!page && <h1>{attributes.title}</h1>}
           <div dangerouslySetInnerHTML={{ __html: html }} />
           {!page && (

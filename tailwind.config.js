@@ -1,6 +1,10 @@
 module.exports = {
   theme: {
-    extend: {}
+    extend: {
+      gridTemplateColumns: {
+        sidebar: "1fr 280px"
+      }
+    }
   },
   variants: {},
   plugins: []
