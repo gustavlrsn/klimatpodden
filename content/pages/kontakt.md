@@ -5,5 +5,5 @@ title: Kontakt
 ragnhild@konvoj.se
 
 **Följ och gilla Klimatpodden:**\
-**Twitter:** https://twitter.com/Klimatpodden\
-**Facebook:** https://www.facebook.com/klimatpodden/
+**Twitter:** <https://twitter.com/Klimatpodden>\
+**Facebook:** <https://www.facebook.com/klimatpodden/>
