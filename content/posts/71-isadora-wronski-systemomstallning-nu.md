@@ -7,8 +7,3 @@ date: 2020-04-20T14:29:05.592Z
 Isadora Wronski är programchef på Greenpeace i Sverige. Hon har jobbat med internationella miljökampanjer för Greenpeace och Burning man, en av världens mest unika festivaler i Black Rock desert i norra Nevada i USA.
 Isadora har också varit gruppchef för försvarets kommunikationstrupper och pluggat zoofysiologi, en gren inom zoologin som studerar hur organ och vävnader fungerar hos djur.
 Det blev ett samtal om hur klimatkampen påverkas av coronapandemin och om den rentav kan innebära en unik möjlighet att ställa om samhället i hållbar riktning istället för att återgå till business as usual. Och mycket mer!
-
-Mer info:\
-
-Greenpace (https://www.greenpeace.org/sweden/agera/?gclid=EAIaIQobChMInY_7i5z36AIVxrUYCh0h4wlREAAYASAAEgKEmPD_BwE)\
-\[Stoppa Preemraff](https://www.facebook.com/stoppapreemraff/)
