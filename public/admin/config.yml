@@ -7,13 +7,6 @@ slug:
   encoding: "ascii"
   clean_accents: true
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
   - name: "posts"
     label: "Posts"
     folder: "content/posts"
@@ -27,4 +20,11 @@ collections:
           dateFormat: "YYYY-MM-DD",
           timeFormat: false,
         }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
