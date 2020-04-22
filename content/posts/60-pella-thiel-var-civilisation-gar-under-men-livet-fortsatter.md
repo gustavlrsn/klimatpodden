@@ -1,6 +1,6 @@
 ---
 title: "#60 Pella Thiel – Vår civilisation går under, men livet fortsätter"
-date: "2019-04-09"
+date: 2019-04-09T12:00:00.000Z
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/603189804&amp;color=%23001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

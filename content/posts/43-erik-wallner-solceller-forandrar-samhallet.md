@@ -1,6 +1,6 @@
 ---
 title: "#43 Erik Wallnér – Solceller förändrar samhället"
-date: "2017-10-09"
+date: 2017-10-09T12:00:00.000Z
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346089587&amp;color=001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

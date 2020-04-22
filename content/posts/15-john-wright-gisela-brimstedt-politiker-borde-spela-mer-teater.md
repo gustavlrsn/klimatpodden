@@ -1,6 +1,6 @@
 ---
 title: "#15 John Wright & Gisela Brimstedt – Politiker borde spela mer teater"
-date: "2016-03-25"
+date: 2016-03-25T12:00:00.000Z
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255028753&amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
