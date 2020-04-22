@@ -1,6 +1,6 @@
 ---
 title: "#3 Kerstin Hamberger - Nu vill jag opinionsbilda för klimatet"
-date: 2015-10-02T12:00:00.000Z
+date: 2015-10-02
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/226556331&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

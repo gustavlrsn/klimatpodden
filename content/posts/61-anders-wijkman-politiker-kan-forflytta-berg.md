@@ -1,6 +1,6 @@
 ---
 title: "#61 Anders Wijkman – Politiker kan förflytta berg"
-date: 2019-05-15T12:00:00.000Z
+date: 2019-05-15
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/620907135&amp;color=%23001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>

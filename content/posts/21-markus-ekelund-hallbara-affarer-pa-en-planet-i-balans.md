@@ -1,6 +1,6 @@
 ---
 title: "#21 Markus Ekelund – Hållbara affärer på en planet i balans"
-date: 2016-06-17T12:00:00.000Z
+date: 2016-06-17
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269554453&amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

@@ -1,6 +1,6 @@
 ---
 title: "#4 Leif Strandh – All förändring börjar med en enskild människa"
-date: 2015-10-15T12:00:00.000Z
+date: 2015-10-15
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228573440&amp;color=001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

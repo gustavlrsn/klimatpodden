@@ -1,7 +1,8 @@
 ---
-title: '#69 Graffman & Solér – Vi är intrasslade i en ohållbar konsumtionskultur'
-date: 2019-12-23T15:56:14.403Z
+title: "#69 Graffman & Solér – Vi är intrasslade i en ohållbar konsumtionskultur"
+date: 2019-12-23
 ---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/732745780&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 Antropologen **Katarina Graffman** och företagsekonomen **Cecilia Solér** undersöker vår ohållbara konsumtion ur olika perspektiv.\

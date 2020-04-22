@@ -1,6 +1,6 @@
 ---
 title: "#51 Heidi Andersson – Börja med dig själv & förändra världen"
-date: 2018-03-17T12:00:00.000Z
+date: 2018-03-17
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/414987390&amp;color=001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

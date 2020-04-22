@@ -1,6 +1,6 @@
 ---
 title: "#40 Fredrik Hedenus – Vi måste äta klimatsmart för att nå tvågradersmålet!"
-date: 2017-07-08T12:00:00.000Z
+date: 2017-07-08
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332219731&amp;color=001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

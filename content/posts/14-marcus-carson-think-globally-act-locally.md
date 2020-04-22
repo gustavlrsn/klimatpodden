@@ -1,6 +1,6 @@
 ---
 title: "#14 Marcus Carson – Think globally Act locally"
-date: 2016-03-11T12:00:00.000Z
+date: 2016-03-11
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251308796&amp;amp;color=001665&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

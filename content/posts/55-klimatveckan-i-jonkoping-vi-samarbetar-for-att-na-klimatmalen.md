@@ -1,6 +1,6 @@
 ---
 title: "#55 Klimatveckan i Jönköping – Vi samarbetar för att nå klimatmålen"
-date: 2018-10-03T12:00:00.000Z
+date: 2018-10-03
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509047137&amp;color=%23001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe>

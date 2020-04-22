@@ -1,6 +1,6 @@
 ---
 title: "#59 Johan Ehrenberg – Alla kan rädda världen"
-date: 2019-02-27T12:00:00.000Z
+date: 2019-02-27
 ---
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/582124821&amp;color=%23001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
