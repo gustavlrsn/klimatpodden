@@ -1,6 +1,6 @@
 ---
 title: "#63 Stefan Sundström – Nyttiga bakterier dämpar klimatkrisen"
-date: "2019-06-09"
+date: 2019-06-08T22:00:00.000Z
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633986274&amp;color=%23001665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
