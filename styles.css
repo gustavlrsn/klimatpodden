@@ -13,15 +13,6 @@ html {
   @apply bg-gray-100;
 }
 
-.post.stotta {
-  display: flex;
-  padding: 0;
-}
-
-.post.stotta div {
-  padding: 25px;
-}
-
 .post h1 {
   @apply text-3xl;
   @apply font-semibold;
@@ -41,11 +32,11 @@ html {
   @apply text-gray-900;
 }
 
-#logo {
+/* #logo {
   transform: rotate(2deg);
   transition: 100ms transform ease-in-out;
 }
 
 #logo:hover {
   transform: rotate(-1deg);
-}
+} */

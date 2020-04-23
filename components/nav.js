@@ -4,7 +4,7 @@ import { withRouter } from "next/router";
 
 const css = {
   link:
-    "mx-3 sm:mx-1 py-2 px-2 block rounded hover:bg-gray-200 font-medium text-lg"
+    "mx-3 sm:mx-1 py-2 px-2 block rounded hover:bg-gray-200 font-medium text-lg",
 };
 
 const Nav = ({ router, nav }) => {

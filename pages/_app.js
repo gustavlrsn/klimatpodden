@@ -3,6 +3,7 @@ import App from "next/app";
 import Router from "next/router";
 import withGA from "next-ga";
 import importNav from "../lib/importNav";
+import Nav from "../components/nav";
 import "../styles.css";
 
 class MyApp extends App {
@@ -20,8 +21,23 @@ class MyApp extends App {
 
   render() {
     const { Component, pageProps, nav } = this.props;
-    return <Component {...pageProps} nav={nav} />;
+    return (
+      <div>
+        <Nav nav={nav} />
+        <Component {...pageProps} />
+      </div>
+    );
   }
 }
+
+// export async function getStaticProps() {
+//   const nav = await getPages();
+//   console.log({ nav });
+//   return {
+//     props: {
+//       nav,
+//     },
+//   };
+// }
 
 export default withGA("UA-7337696-13", Router)(MyApp);

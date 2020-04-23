@@ -1,9 +1,10 @@
 ---
 title: Kontakt
 ---
-**Kontakta Klimatpodden:**\
+
+**Email:**
 ragnhild@konvoj.se
 
-**Följ och gilla Klimatpodden:**\
-**Twitter:** <https://twitter.com/Klimatpodden>\
-**Facebook:** <https://www.facebook.com/klimatpodden/>
+**Följ och gilla Klimatpodden:** \
+**Twitter:** <https://twitter.com/Klimatpodden> \
+**Facebook:** <https://www.facebook.com/klimatpodden>

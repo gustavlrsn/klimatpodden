@@ -1,23 +1,23 @@
 import Link from "next/link";
 
-const linkResolver = page => {
+const linkResolver = (page) => {
   if (page == 1)
     return {
-      href: "/"
+      href: "/",
     };
   return {
-    href: `/?page=${page}`,
-    as: `/page/${page}`
+    href: `/page/[page]`,
+    as: `/page/${page}`,
   };
 };
 
 export default ({ currentPage, totalPages }) => {
-  const pages = [...Array(totalPages).keys()].map(i => i + 1);
+  const pages = [...Array(totalPages).keys()].map((i) => i + 1);
 
   return (
     <>
       <ul>
-        {pages.map(page => (
+        {pages.map((page) => (
           <li key={page}>
             <Link {...linkResolver(page)}>
               <a className={page == currentPage ? "active" : ""}>{page}</a>

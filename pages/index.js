@@ -1,41 +1,19 @@
 import React from "react";
-import Link from "next/link";
-import moment from "moment";
-
-import Nav from "../components/nav";
 import Head from "../components/head";
-import Pagination from "../components/Pagination";
-import importBlogPosts from "../lib/importBlogPosts";
+import PostList from "../components/PostList";
+import { getPosts } from "../lib/api";
 
-const Home = ({ posts, nav, currentPage, totalPages }) => {
+const Home = ({ posts, currentPage, totalPages }) => {
   return (
     <>
       <Head title="Klimatpodden" />
-      <Nav nav={nav} />
 
-      <div className="max-w-screen-md mx-auto">
-        <div>
-          {posts.map(({ attributes, html, slug }) => {
-            return (
-              <div
-                className="bg-white px-5 py-4 mb-16 rounded border shadow-sm post"
-                key={slug}
-              >
-                <Link href="/[slug]" as={`/${slug}`}>
-                  <a className="title text-black">
-                    <h1 className="">{attributes.title}</h1>
-                  </a>
-                </Link>
-                <div dangerouslySetInnerHTML={{ __html: html }} />
-                <span className="text-sm text-gray-700 mt-4 block">
-                  Publicerat {moment(attributes.date).format("MMM D, YYYY")}
-                </span>
-              </div>
-            );
-          })}
-          <Pagination currentPage={currentPage} totalPages={totalPages} />
-        </div>
-        {/* <div>
+      <PostList
+        posts={posts}
+        currentPage={currentPage}
+        totalPages={totalPages}
+      />
+      {/* <div>
           <div className="bg-white rounded shadow-sm p-4">
             <h3 className="text-sm text-gray-800 mb-2 uppercase font-semibold">
               Den viktigaste berättelsen
@@ -60,14 +38,21 @@ const Home = ({ posts, nav, currentPage, totalPages }) => {
             </p>
           </div>
         </div> */}
-      </div>
     </>
   );
 };
 
-Home.getInitialProps = async ({ query: { page = 1 } }) => {
-  const { posts, totalPages } = await importBlogPosts(page);
-  return { posts, currentPage: page, totalPages };
-};
+export async function getStaticProps() {
+  const page = 1;
+  const { posts, totalPages } = await getPosts(page);
+
+  return {
+    props: {
+      posts,
+      totalPages,
+      currentPage: page,
+    },
+  };
+}
 
 export default Home;

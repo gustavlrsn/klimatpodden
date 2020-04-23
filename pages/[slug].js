@@ -1,64 +1,88 @@
 import React from "react";
 import moment from "moment";
-import Nav from "../components/nav";
 import Head from "../components/head";
 import firstParagraphFromHtmlString from "../lib/firstParagraph";
 
-const Page = ({ markdown, page, nav, slug }) => {
+import {
+  getPageSlugs,
+  getPostSlugs,
+  getPageBySlug,
+  getPostBySlug,
+} from "../lib/api";
+
+const Page = ({ markdown }) => {
   if (!markdown) return <div>404</div>;
-  const { html, attributes } = markdown;
+  const { html, data, slug } = markdown;
   return (
     <>
       <Head
-        title={`${attributes.title} | Klimatpodden`}
+        title={`${data.title} | Klimatpodden`}
         description={firstParagraphFromHtmlString(html)}
         slug={slug}
       />
-      <Nav nav={nav} />
 
       <div className="max-w-screen-md mx-auto">
         <div
           className={`bg-white px-5 py-4 mb-16 rounded border shadow-sm post overflow-hidden ${
-            slug === "stotta" ? "post stotta" : "post"
+            slug === "stotta" ? "sm:flex" : ""
           }`}
         >
-          {!page && <h1>{attributes.title}</h1>}
-          <div dangerouslySetInnerHTML={{ __html: html }} />
-          {!page && (
-            <span className="date">
-              Publicerat {moment(attributes.date).format("MMM D, YYYY")}
-            </span>
+          <div>
+            <h1>{data.title}</h1>
+            <div dangerouslySetInnerHTML={{ __html: html }} />
+            {data.date && (
+              <span className="text-sm text-gray-700 mt-4 block">
+                Publicerat {moment(data.date).format("MMM D, YYYY")}
+              </span>
+            )}
+          </div>
+          {slug === "stotta" && (
+            <img
+              className="sm:ml-4 sm:-mr-5 sm:-my-4"
+              width="320"
+              src="/img/swish.jpg"
+            />
           )}
-          {slug === "stotta" && <img width="320" src="/img/swish.jpg" />}
         </div>
       </div>
     </>
   );
 };
 
-Page.getInitialProps = async ({ query: { slug } }) => {
-  let markdown;
-
-  const pageSlugs = require
-    .context("../content/pages", false, /\.md$/)
-    .keys()
-    .map(str => str.substring(2, str.length - 3));
+export async function getStaticProps({ params: { slug } }) {
+  const pageSlugs = getPageSlugs();
 
   if (pageSlugs.includes(slug)) {
-    markdown = await import(`../content/pages/${slug}.md`);
+    const page = await getPageBySlug(slug);
+
     return {
-      page: true,
-      markdown,
-      slug
+      props: {
+        markdown: page,
+      },
     };
   }
 
-  try {
-    markdown = await import(`../content/posts/${slug}.md`);
-  } catch (err) {
-    console.error(err);
-  }
-  return { markdown, slug };
-};
+  const post = await getPostBySlug(slug);
+
+  return {
+    props: {
+      markdown: post,
+    },
+  };
+}
+
+export async function getStaticPaths() {
+  const pageSlugs = getPageSlugs();
+  const postSlugs = getPostSlugs();
+
+  const paths = [...pageSlugs, ...postSlugs].map((slug) => ({
+    params: { slug },
+  }));
+
+  return {
+    paths,
+    fallback: false,
+  };
+}
 
 export default Page;
