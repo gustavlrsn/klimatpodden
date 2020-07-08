@@ -2,7 +2,8 @@
 title: "#72 Tomas Kåberger – Pandemin påskyndar energiomställningen"
 date: 2020-07-08
 ---
-**Tomas Kåberger** är ledamot i Klimatpolitiska rådet, professor i Industriell energipolicy på Chalmers, ordförande i Renewable Energy Institute i Tokyo och ledarskribent i ETC. Han har också varit generaldirektör för Energimyndigheten och sitter i Vattenfalls styrelse.
+**Tomas Kåberger** är ledamot i Klimatpolitiska rådet, professor i Industriell energipolicy på Chalmers, ordförande i Renewable Energy Institute i Tokyo och ledarskribent i ETC. \
+Han har också varit generaldirektör för Energimyndigheten och sitter i Vattenfalls styrelse.
 
 Vi träffades utanför Tomas hus i Mölndal, i mitten av juni, till ackompanjemang av ivriga koltrastar. Det blev ett samtal om hur det fungerar att ha uppdrag i olika organisationer som ibland har motstridiga intressen, om varför det måste vara roligt att rädda världen, hur akademin kan hävda sin självständighet gentemot industrin, hur corona-pandemin kommer att påskynda energiomställningen, om arbetet med klimatpolitiska rådet och varför han har kallat sig för en av de värsta klimatbrottslingarna.
 
