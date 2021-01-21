@@ -1,7 +1,7 @@
 ---
 title: Om Klimatpodden
 ---
-![Ragnhild Larsson & Stefan Sundström](/img/img_4003.jpg)
+![Ragnhild Larsson & Stefan Sundström](/img/img_4003-1.jpg)
 
 I Klimatpodden får du möta forskare, aktivister, entreprenörer och alla andra som på olika sätt engagerar sig i klimatkrisen. \
 Förhoppningsvis blir du också inspirerad att agera. \
@@ -27,8 +27,8 @@ Här är en film som [Erik Garmo](https://www.garmomedia.se/planetfilmer) har pr
 <iframe src="https://player.vimeo.com/video/339101415?color=66CCA8&title=0&byline=0&portrait=0" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/339101415">Klimatk&auml;mpar: Ragnhild Larsson</a> from <a href="https://vimeo.com/erikgarmo">Erik Garmo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>\
 \
-**Klimatpodden** produceras av Konvoj Produktion.\
-**Redaktör och producent:** Ragnhild Larsson \
-**Signaturmelodi:** Tommy Kaså\
-**Logga**: Hannes Larsson\
-**Hemsida:** Gustav Larsson
+\*\*Klimatpodden\*\* produceras av Konvoj Produktion.\
+\*\*Redaktör och producent:\*\* Ragnhild Larsson \
+\*\*Signaturmelodi:\*\* Tommy Kaså\
+\*\*Logga\*\*: Hannes Larsson\
+\*\*Hemsida:\*\* Gustav Larsson
