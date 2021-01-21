@@ -11,7 +11,9 @@ Det är vår moraliska skyldighet att göra precis allt som står i vår makt f�
 
 **Jag är förundrad** över hur bristfällig mediabevakningen är av det största hot vår civilisation har stått inför.
 
-**Jag är** **upprörd** över att våra politiker, trots alla vackra ord, inte tar tag i klimatkrisen på allvar utan fortsätter med business as usual.
+**Jag är** **upprörd** över att våra politiker, trots alla vackra ord, inte tar tag i klimatkrisen på allvar utan fortsätter med business as usual.\
+Därför gör jag Klimatpodden. \
+Det är en ynnest att få möta alla dessa kloka och engagerade människor som delar med sig av sin kunskap och sina insikter. Min förhoppning är att du som lyssnar ska få kraft och inspiration att engagera dig på olika sätt i kampen för en beboelig planet. 
 
 **Vill du göra en livepodd eller ha ett klimatsamtal?**\
 Då och då spelar jag in poddavsnitt inför en publik, som under Filmfestivalen 2019 när jag höll i ett samtal med Roy Scranton inför en fullsatt hörsal på stadsbiblioteket i Göteborg. Eller när jag pratade med Stefan Sundström om bokashi, biokol och bakterier på samma bibliotek. Inför EU-valet höll jag i ett samtal med Anders Wijkman på Klimatriksdagens arrangemang i Stockholm våren 2019.\
