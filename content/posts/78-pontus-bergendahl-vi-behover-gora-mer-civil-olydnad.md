@@ -1,0 +1,11 @@
+---
+title: "#78 Pontus Bergendahl – Vi behöver göra mer civil olydnad"
+date: 2021-03-18
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1010351899&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/78-pontus-bergendahl-vi-behover-mer-civil-olydnad" title="#78 Pontus Bergendahl – Vi behöver göra mer civil olydnad" target="_blank" style="color: #cccccc; text-decoration: none;">#78 Pontus Bergendahl – Vi behöver göra mer civil olydnad</a></div>
+
+**Pontus Bergendahl** har sagt upp sig från ett välbetalt jobb som mellanchef för att bli klimataktivist på heltid i klimatrörelsen **[Extinction Rebellion.](https://extinctionrebellion.se/)**\
+Vi träffades på ett fik i lund den 1 mars för att prata om hur han blev aktiv i XR och började göra civila olydnadsaktioner som nu har lett till åtal och domstolsförhandlingar.\
+Vad är egentligen civil olydnad är och var går gränserna för vad som är okej att göra?Håller han med om forskaren Andreas Malms slutsats att klimatrörelsen måste sluta gulla?\
+Pontus berättar också om några aktioner han deltagit i, som den symboliska blockaden av mp partihögkvarter i Stockholm som ledde till ett samtal med ledande miljöpartistiska politiker som Rebecka Lemoine, Lorentz Towatt och Annika Hirvonen.\
+Pontus gör också reklam för det som ska bli den största massaktionen hittills i Norden, Nordic rebellion i Oslo, 21-29 augusti och förklarar varför just du borde bli klimataktivist.
