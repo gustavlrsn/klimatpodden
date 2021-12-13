@@ -13,3 +13,5 @@ Katharine was a lead author for the U.S. Second, Third, and Fourth National Clim
 Her [**TED Talk “The Most Important Thing You Can Do to Fight Climate Change: Talk About It”** ](https://www.ted.com/talks/katharine_hayhoe_the_most_important_thing_you_can_do_to_fight_climate_change_talk_about_it)has been viewed over 5 million times. She has a BSc in physics and astronomy from the University of Toronto and an MS and a PhD in atmospheric science from the University of Illinois at Urbana-Champaign.
 
 Katharine Hayhoe has been called One of the nations most effective communicators on climatechange, by the New York times and in September her new book **[Saving Us, A Climate Scientist's Case for Hope and Healing in a Divided World, was published.](https://www.simonandschuster.com/books/Saving-Us/Katharine-Hayhoe/9781982143831)**
+
+**Photo:** Ashley Rodgers
