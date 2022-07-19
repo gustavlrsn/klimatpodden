@@ -1,0 +1,10 @@
+---
+title: "#88 – Vi behöver visioner för att ställa om"
+date: 2022-07-19
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1297777306&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/88-visioner-om-en-omstalld-varld-ar-ar-livsviktiga" title="#88 Vi behöver visioner för att ställa om" target="_blank" style="color: #cccccc; text-decoration: none;">#88 Vi behöver visioner för att ställa om</a></div>
+
+\
+Filmaren **Cecilia Paulson** och dramapedagogen **Julia Fries** driver projektet **[Scenario 2030.](https://www.scenario2030.se/)** Projektet finansieras av Allmänna arvsfonden och riktar sig till personer mellan 18 och 25 år, som vill engagera sig för en hållbar framtid. Här får de en möjlighet att utforska och utveckla konkreta visioner för hur vi skulle kunna organisera vårt sätt att leva och samarbeta i framtiden. Fokus ligger på hållbar fördelning av makt och organisering av resurser.\
+**Scenario 2030** vill möta ungas önskan och behov av att förstå hur ekonomin och samhället ser ut idag. Projektet ger plats för visioner och idéer om hur socialt, ekonomiskt och ekologiskt hållbara samhällen kan se ut i praktiken.\
+De vill också bidra till att flytta fokus för det offentliga samtalet -från vad som är fel i samhället - till vilket samhälle vi faktiskt vill ha.
