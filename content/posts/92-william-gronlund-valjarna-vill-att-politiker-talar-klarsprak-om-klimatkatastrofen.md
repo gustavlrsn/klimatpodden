@@ -1,0 +1,9 @@
+---
+title: "#92 William Grönlund – Väljarna vill att politiker talar klarspråk om
+  klimatkatastrofen"
+date: 2022-09-22
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1340673058&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/92-william-gronlund-valjarna-vill-att-politiker-talar-klarsprak-om-klimatkatastrofen" title="#92 William Grönlund – Väljarna vill att politiker talar klarspråk om klimatkatastrofen" target="_blank" style="color: #cccccc; text-decoration: none;">#92 William Grönlund – Väljarna vill att politiker talar klarspråk om klimatkatastrofen</a></div>
+
+**William Grönlund** är talesperson för den nybildade **Klimatalliansen** som ställer upp i valet på söndag. Vi sågs på zoom den 1 september för att prata om varför han valde att engagerade sig i Klimatalliansen och hur han ser på åsikten att en röst på Klimatalliansen i själva verket är en bortkastad röst.  Vi pratade också om vad det var som fick honom att bli engagerad i i klimatkrisen, vad som oroar honom mest, vad som ger honom kraft att fortsätta, om rebellmammor och Återställ Våtmarker.\
+God lyssning!
