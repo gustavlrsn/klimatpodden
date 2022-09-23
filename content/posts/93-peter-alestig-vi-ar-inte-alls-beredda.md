@@ -1,0 +1,8 @@
+---
+title: "#93 Peter Alestig – Vi är inte alls beredda"
+date: 2022-09-23
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1349507998&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/93-peter-alestig-vi-ar-inte-alls-beredda" title="#93 Peter Alestig – Vi är inte alls beredda" target="_blank" style="color: #cccccc; text-decoration: none;">#93 Peter Alestig – Vi är inte alls beredda</a></div>
+
+**Peter Alestig** är klimatredaktör på DN och författare till den nyutkomna boken **Världen som väntar — Vårt liv klimatförändringarnas Sverige**. Vi sågs på Greenpeace i Sthlm den 16 augusti för att prata om boken och klimatjournalistiken.\
+I sju kapitel beskriver Peter hur våra liv kommer att påverkas på sätt vi inte kunnat föreställa oss. Redan idag har den globala uppvärmningen hotat vår tillgång på mat, gett oss nya sjukdomar och parasiter och påverkat vår roll i världspolitiken.  De olika kapitlen förklarar vad som kommer att hända här när det gäller snö vatten, hetta, eld, sjukdomar, mat och konflikter.
