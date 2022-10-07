@@ -11,6 +11,5 @@ Vi diskuterade vägblockader, om det är vettigt att göra aktioner som stör va
 
 **M﻿ER INFO**\
 [O﻿scar Berglund](https://www.bristol.ac.uk/people/person/Oscar-Berglund-2742b53a-dfd3-416a-af8d-13655e3f1a6b/) -University of Bristol\
-[A﻿rtikel om varför forskare bör göra civil olydnad](<https://www.theguardian.com/environment/2022/aug/29/scientists-call-on-colleagues-to-protest-climate-crisis-with-civil-disobedience
-https://www.bristol.ac.uk/people/person/Oscar-Berglund-2742b53a-dfd3-416a-af8d-13655e3f1a6b/>)\
+[A﻿rtikel ](https://www.theguardian.com/environment/2022/aug/29/scientists-call-on-colleagues-to-protest-climate-crisis-with-civil-disobedience)om varför forskare bör göra civil olydnad \
 [B﻿ok om Extinction Rebellion](https://link.springer.com/book/10.1007/978-3-030-48359-3) av bland andra Oscar Berglund
