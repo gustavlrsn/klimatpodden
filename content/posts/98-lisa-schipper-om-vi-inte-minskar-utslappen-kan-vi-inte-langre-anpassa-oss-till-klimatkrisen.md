@@ -1,0 +1,10 @@
+---
+title: "#98 Lisa Schipper – Om vi inte minskar utsläppen kan vi inte längre
+  anpassa oss till klimatkrisen"
+date: 2022-12-31
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413711160&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/98-lisa-schipper-om-vi-inte-minskar-utslappen-kan-vi-inte-anpassa-oss-till-klimatforandringarna" title="#98 Lisa Schipper – Om vi inte minskar utsläppen kan vi inte anpassa oss till klimatförändringarna" target="_blank" style="color: #cccccc; text-decoration: none;">#98 Lisa Schipper – Om vi inte minskar utsläppen kan vi inte anpassa oss till klimatförändringarna</a></div>
+
+Klimatforskaren Lisa Schipper forskar på hur människor påverkas av klimatkrisen och om en rättvis klimatomställning är möjlig. Hon undersöker också vad är det som gör människor sårbara för klimatförändringarna i globala syd och vilka hinder som finns för att människor ska kunna anpassa sig till klimatkrisen.\
+Lisa är också en av huvudförfattarna till IPCC:s delrapport om effekter, anpassning och sårbarhet.\
+Jag träffade Lisa på Zoom den 12 december. Vi pratade bland annat om hennes intryck från det COP-27, FN.s internationella klimatmöte i Sharm el-Sheikh och de viktigaste slutsatserna i den senaste IPCC-rapporten, om hur vi måste anpassa oss till en allt varmare värld och om exempel på dåliga anpassningar och hur felaktiga insatser kan göra mer skada än nytta, vilket innebär slöseri med tid och pengar samtidigt som de lämnar människor lika eller ännu mer utsatta än innan.
