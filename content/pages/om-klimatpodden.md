@@ -25,10 +25,10 @@ Hör av dig om du vill köra en livepodd eller att jag ska hålla ett samtal inf
 Här är en film som [Erik Garmo](https://www.garmomedia.se/planetfilmer) har producerat i sin serie Klimatkämpar:
 
 <iframe src="https://player.vimeo.com/video/339101415?color=66CCA8&title=0&byline=0&portrait=0" width="640" height="272" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/339101415">Klimatk&auml;mpar: Ragnhild Larsson</a> from <a href="https://vimeo.com/erikgarmo">Erik Garmo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>\
-\
-\*\*Klimatpodden\*\* produceras av Konvoj Produktion.\
-\*\*Redaktör och producent:\*\* Ragnhild Larsson \
-\*\*Signaturmelodi:\*\* Tommy Kaså\
-\*\*Logga\*\*: Hannes Larsson\
-\*\*Hemsida:\*\* Gustav Larsson
+<p><a href="https://vimeo.com/339101415">Klimatk&auml;mpar: Ragnhild Larsson</a> from <a href="https://vimeo.com/erikgarmo">Erik Garmo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+**Klimatpodden produceras av Konvoj Produktion**\
+**Redaktör och producent:** Ragnhild Larsson \
+**Signaturmelodi:** Tommy Kaså\
+**Logga:** Ossian Rossland Lindvall **(**grundform: Hannes Larsson) \
+**Hemsida:** Gustav Larsson
