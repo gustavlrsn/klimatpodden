@@ -1,0 +1,9 @@
+---
+title: "#99 Sara Nilsson Lööv – Vi vägrar blunda. Vi vägrar ge upp!"
+date: 2023-01-21
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1429357618&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/99-sara-nilsson-loov-vi-vagrar-blunda-vi-vagrar-ge-upp" title="#99 Sara Nilsson Lööv – Vi vägrar blunda. Vi vägrar ge upp!" target="_blank" style="color: #cccccc; text-decoration: none;">#99 Sara Nilsson Lööv – Vi vägrar blunda. Vi vägrar ge upp!</a></div>
+
+**Sara Nilsson Lööv** är psykolog, aktiv i **Extinction Rebellion** och en av initiativtagarna till **[Rebellmammorna.](https://extinctionrebellion.se/bli-aktiv/grupper/rebellmammorna/)** Eller som det står på hennes Instagramprofil: Mamma och psykolog som försöker göra allt jag kan i klimatkrisen genom att sprida klimatpsykologisk kunskap - och tillämpa den.\
+\
+Vi träffades i Malmö den 13 januari för att prata om Rebellmammorna, och vad det är som får människor att inse hur akut läget är och ta steget att bli aktivister och och hur det kom sig att hon ensam satte sig ner på en bilväg med skylten: Förlåt. Jag förstod så sent. Nu kommer jag aldrig sluta kämpa för er unga.
