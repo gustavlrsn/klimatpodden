@@ -1,7 +1,7 @@
 ---
-title: Nominera 100 klimathjältar!
+title: Nominera en klimathjälte!
 ---
-![Bild med text: 100 klimathjältar - avsnitt hundra](/img/100-klimathja-ltar.jpeg)
+![Bild med text: 100 klimathjältar - avsnitt hundra](/img/kp_100_vykort.jpg)
 
 \
 I﻿ Klimatpodden får du möta människor som gör vad de kan för att på olika sätt hejda de allra värsta effekterna av den allt mer akuta klimatkatastrofen. De är alla klimathjältar!\
