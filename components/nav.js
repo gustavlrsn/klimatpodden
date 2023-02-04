@@ -10,7 +10,7 @@ const css = {
 const Nav = ({ router, nav }) => {
   const [isMenuOpen, setMenuOpen] = useState(false);
   return (
-    <header className="sm:py-6 mx-4 max-w-screen-md mx-auto flex flex-col">
+    <header className="sm:py-6 max-w-screen-md mx-auto flex flex-col">
       <div className="flex px-5 w-full items-center justify-between sm:justify-center">
         <Link href="/">
           <a>
