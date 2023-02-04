@@ -13,6 +13,31 @@ html {
   @apply bg-gray-100;
 }
 
+h2 {
+  @apply text-xl mt-6;
+  @apply font-semibold;
+}
+
+blockquote {
+  @apply border-l border-green-500 p-4 my-2 border-l-4 bg-gray-50 text-sm;
+}
+
+blockquote p {
+  @apply my-0 text-base !important;
+}
+
+table {
+  @apply table-auto;
+}
+
+tr {
+  @apply border-b;
+}
+
+td {
+  @apply px-4;
+}
+
 .post h1 {
   @apply text-3xl;
   @apply font-semibold;
