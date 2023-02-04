@@ -1,7 +1,5 @@
 import React from "react";
 import App from "next/app";
-import Router from "next/router";
-import withGA from "next-ga";
 import importNav from "../lib/importNav";
 import Nav from "../components/nav";
 import "../styles.css";
@@ -40,4 +38,4 @@ class MyApp extends App {
 //   };
 // }
 
-export default withGA("UA-7337696-13", Router)(MyApp);
+export default MyApp;
