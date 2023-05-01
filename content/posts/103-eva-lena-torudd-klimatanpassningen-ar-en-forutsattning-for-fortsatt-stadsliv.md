@@ -1,0 +1,9 @@
+---
+title: "#103 Eva Lena Torudd – Klimatanpassningen är en förutsättning för
+  fortsatt stadsliv"
+date: 2023-05-01
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1503904354&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/103-eva-lena-torudd-klimatanpassningen-ar-en-forutsattning-for-det-fortsatta-stadslivet" title="#103 Eva-Lena Torudd – Klimatanpassningen är en förutsättning för det fortsatta stadslivet" target="_blank" style="color: #cccccc; text-decoration: none;">#103 Eva-Lena Torudd – Klimatanpassningen är en förutsättning för det fortsatta stadslivet</a></div>
+
+**Eva-Lena Torudd** är planeringsledare för klimatanpassning på Stadsledningskontoret i Göteborgs stad.  \
+Jag träffade Eva-Lena i stadshuset den 31 mars, för att prata om hennes arbete med att klimatanpassa Göteborg. Med sitt läge vid havet och Göta Älv ligger Göteborg i det område i Sverige som riskerar att drabbas värst av effekterna av ett förändrat klimat i form av havsnivåhöjningar, översvämningar, erosion, ras och skred.
