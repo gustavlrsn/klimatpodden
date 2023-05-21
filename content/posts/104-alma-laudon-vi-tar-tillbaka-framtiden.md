@@ -1,0 +1,9 @@
+---
+title: "#104 Alma Laudon – Vi tar tillbaka framtiden"
+date: 2023-05-21
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1518962992&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/104-alma-laudon-vi-tar-tillbaka-framtiden" title="#104 Alma Laudon – Vi tar tillbaka framtiden" target="_blank" style="color: #cccccc; text-decoration: none;">#104 Alma Laudon – Vi tar tillbaka framtiden</a></div>
+
+**Alma Laudon** är klimataktivist och pluggar till mattelärare. Hon har varit aktiv i flera år i klimatrörelsen och har varit med och startat [Ta tillbaka framtiden ](https://tatillbakaframtiden.se/)som är en helt ny klimatörelse som specifikt riktar sig till unga människor mellan 12 och 30 år. De började med att bjuda in till en stor fest och sedan blockerade de oljehamnen i Göteborg åtta dagar i sträck.
+
+Jag träffade Alma i Göteborg den 24 april för att prata om hur det är att vara ung i denna dystopiska tid och om Ta tillbaka Framtiden.
