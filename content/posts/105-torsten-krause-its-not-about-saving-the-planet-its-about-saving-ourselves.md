@@ -1,0 +1,11 @@
+---
+title: "#105 Torsten Krause – It's not about saving the planet, it's about
+  saving ourselves"
+date: 2023-06-06
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1532265484&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/105-torsten-krause-its-not-about-saving-the-planet-its-about-saving-ourselves" title="#105 Torsten Krause – It&#x27;s not about saving the planet, it&#x27;s about saving ourselves" target="_blank" style="color: #cccccc; text-decoration: none;">#105 Torsten Krause – It&#x27;s not about saving the planet, it&#x27;s about saving ourselves</a></div>
+
+**[Torsten Krause](https://www.lucsus.lu.se/torsten-krause)** is a senior lecturer at the [Lund University Centre for Sustainability Studies.](https://www.lucsus.lu.se/) He holds a Bachelor (BSc) in International Business Administration from the European University Viadrina in Frankfurt/Oder, Germany and the Ecole Superieure de Commerce in Montpellier, France; and a Masters degree (MSc) in Environmental Studies and Sustainability Science from Lund University.\
+From 2009 to 2013 he conducted his PhD research in the Ecuadorian Amazon studying the social-ecological and economic effects of a national conservation incentive program.\
+Since then he has continued to work with topics around environmental activism, forest governance, deforestation, biodiversity, conservation and sustainable development in Ecuador, Colombia, Nigeria and South Africa.\
+We met at Lund university the 17th of April to talk about activism, how biodiversity loss is linked to the climate crises and many other topics.
