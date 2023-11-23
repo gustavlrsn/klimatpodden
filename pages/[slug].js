@@ -37,11 +37,7 @@ const Page = ({ markdown }) => {
             )}
           </div>
           {slug === "stotta" && (
-            <img
-              className="sm:ml-4 sm:-mr-5 sm:-my-4"
-              width="320"
-              src="/img/swish.jpg"
-            />
+            <img className="sm:ml-4" width="320" src="/img/swish.png" />
           )}
         </div>
       </div>
