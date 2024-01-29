@@ -13,4 +13,6 @@ I en tid där teknik framför allt förstör vår planet och tillväxt i sämsta
 [P﻿odden Andra sätt](https://open.spotify.com/show/7919y3FMjLbvZZiHXODFhL)\
 [L﻿ow tech Magazine](https://solar.lowtechmagazine.com/)\
 [B﻿oken Early Retirement Extreme](https://earlyretirementextreme.com/)\
-[J﻿ag lämnar ekorrhjulet: Ett liv utan lönearbete](https://www.globebokhandel.se/facklitteratur/kropp-sjal/familj-och-halsa/jag-lamnar-ekorrhjulet-ett-liv-utan-lonearbete)
+[J﻿ag lämnar ekorrhjulet: Ett liv utan lönearbete](https://www.globebokhandel.se/facklitteratur/kropp-sjal/familj-och-halsa/jag-lamnar-ekorrhjulet-ett-liv-utan-lonearbete)\
+[G﻿örans plantskola Nötträd - Hassel, valnöt och annat gott](https://nottrad.se)\
+[B﻿ok och filmer: Ett bättre liv är möjligt redan idag ](https://RetroSuburbia.com)
