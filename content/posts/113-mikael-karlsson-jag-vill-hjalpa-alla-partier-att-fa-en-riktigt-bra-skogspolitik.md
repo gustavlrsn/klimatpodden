@@ -1,0 +1,12 @@
+---
+title: "#113 Mikael Karlsson – Jag vill hjälpa alla partier att få en riktigt
+  bra skogspolitik"
+date: 2024-07-18
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1874970267&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/113-mikael-karlsson-jag-vill-hjalpa-alla-partier-att-fa-en-riktigt-bra-skogspolitik" title="#113 Mikael Karlsson – Jag vill hjälpa alla partier att få en riktigt bra skogspolitik" target="_blank" style="color: #cccccc; text-decoration: none;">#113 Mikael Karlsson – Jag vill hjälpa alla partier att få en riktigt bra skogspolitik</a></div>
+
+**Mikael Karlsson** menar att nyckeln till klimatkrisen finns i skogen. Han är expert på ekosystembaserat skogsbruk, ett skogsbruk som både ökar klimatnyttan och värnar naturen - samtidigt som lönsamheten är god. Mikael har också skrivit boken “Konsten att hugga träd och ha skogen kvar” och hållit över 100 föreläsningar och dessutom varit gäst i Klimatpodden en gång tidigare, nämligen i avsnitt 77.
+
+I detta samtal berättar Mikael om sitt helt nya initiativ Partivis, där han samtalar med företrädare för de olika riksdagspartierna om skog och skogsbruk för att få reda på vad de menar och hur de tänker. Resultatet är en serie poddsamtal som också går att titta på. Och samtliga partier utom miljöpartiet anser kanske föga överraskande, att vi har ett hållbart skogsbruk.
+
+På sajten **[partivvis.se](https://partivis.se/)** kan du läsa mer och lyssna och titta på samtalen och hitta information om hur du kan stötta initiativet. Inför riksdagsvalet kommer samtalen att följas upp- Målet är att se till att alla partier får en riktigt bra skogspolitik.
