@@ -1,0 +1,9 @@
+---
+title: "#114 Eva Ekelöf – En berättelse om att överleva och älska i en tid av
+  sammanbrott"
+date: 2024-10-27
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1943127323&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/114-eva-ekelof-en-berattelse-om-att-overleva-och-alska-i-en-tid-av-sammanbrott" title="#114 Eva Ekelöf – En berättelse om att överleva och älska i en tid av sammanbrott" target="_blank" style="color: #cccccc; text-decoration: none;">#114 Eva Ekelöf – En berättelse om att överleva och älska i en tid av sammanbrott</a></div>
+
+I detta avsnitt får du möta min vän och före detta kollega Eva Ekelöf som har jobbat som journalist och skrivit om arbetsmiljö och ett hållbart arbetsliv under hela sitt yrkesliv. Som pensionär började hon skriva fiktion och har nu debuterat med sin första roman Brända av solen, en berättelse om att överleva och älska i en tid av sammanbrott och nya möjligheter.\
+"Allting har kollapsat, klimatet, demokratin, finansvärlden, marknaden. Matbristen driver några människor från storstan till en by i Småland för att bli småbrukare. Där hotar skogsbränder och klimatflyktingar knackar på för ett be om hjälp, jagade av militärpolisen med hundar och skarpladdade vapen. Ur förödelsen föds en möjlig framtid, Den nya verkligheten är annorlunda men ändå hoppfull."
