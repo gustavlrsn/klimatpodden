@@ -9,7 +9,7 @@ Martin Smedjeback ägnar all sin tid åt klimatet och djurrättsaktivism. Han h�
 Martin har varit ordförande för Kristna studentrörelsen i Sverige och var anställd på Kristna Fredsrörelsen i sju år, men är idag ateist.\
 I oktober 2008 hamrade och rispade han, som aktivist i det antimilitaristiska nätverket Ofog, på 14 Carl Gustaf granatgevär som en del av kampanjen Avrusta. För detta dömdes han till fyra månaders fängelse. I mars 2009 greps han tillsammans med Annika Spalde och Pelle Strindlund från Ofog när de var på väg in i en av Saabs hangarer i Linköping för att där hamra på Jasplan avsedda för export. Domen blev fem månaders fängelse.\
 Martin var också med och startade djurrättsgruppen Tomma burar som har utfört så kallade öppna djurfritagniningar i Sverige. För fyra av dessa aktioner har han avtjänat två fängelsestraff på vardera en månad. Han är sedan 2017 ordförande i föreningen Save Movement Sverige\
-2010: fick han Ickevåldspriset ch 2014: Martin Luther King-priset\
+2010: fick han Ickevåldspriset och 2014: Martin Luther King-priset\
 Martin driver också Aktivismpodden. Lyssna på [den](open.spotify.com/show/2WWLi4BeaDRfSKVWimV96z)! [](https://open.spotify.com/show/2WWLi4BeaDRfSKVWimV96z "https\://open.spotify.com/show/2WWLi4BeaDRfSKVWimV96z")
 
 Om du vill stötta arbetet med att göra Klimatpodden så kan du sätta in en valfri summa på Klimatpoddens helt nya Swishkonto: 123-279 86 92.
