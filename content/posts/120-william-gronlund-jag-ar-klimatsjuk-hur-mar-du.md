@@ -1,0 +1,12 @@
+---
+title: "#120 William Grönlund – Jag är klimatsjuk. Hur mår du?"
+date: 2026-04-12
+---
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2301125861&color=%233d7745&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klimatpodden" title="Klimatpodden" target="_blank" style="color: #cccccc; text-decoration: none;">Klimatpodden</a> · <a href="https://soundcloud.com/klimatpodden/120-william-gr-nlund-jag-r" title="#120 William Grönlund – Jag är klimatsjuk. Hur mår du?" target="_blank" style="color: #cccccc; text-decoration: none;">#120 William Grönlund – Jag är klimatsjuk. Hur mår du?</a></div>
+
+William Grönlund är folkhögskolelärare, fyrabarnspappa och engagerad i klimatrörelsen, bland annat i Rebellpapporna. Han är också initiativtagare till projektet Klimatsjuk. Det började som en idé om att synliggöra det psykiska lidande som klimatkrisen orsakar – och kanske också skapa “grus i maskineriet” genom att lyfta frågan som en arbetsmiljö- och samhällsfråga.\
+\
+På [klimatsjuk.nu](https://klimatsjuk.nu/) kan du anmäla hur många dagar du sjukskriver dig på grund av klimatsjuka, dela din berättelse, och få massor av tips om vad du kan göra för att lindra din klimatoro.\
+Samtalet rör sig mellan det djupt personliga och det systemkritiska. Om att försöka leva ett vanligt liv, gå till jobbet, vara förälder, vara medmänniska, samtidigt som man bär på insikten om en accelererande klimatkatastrof. Om den existentiella stress som uppstår när samhället inte agerar i proportion till det som står på spel.\
+\
+Vi pratar om vad det innebär att vara “klimatsjuk” – och att det är en frisk reaktion på ett sjukt system. Om risken att göra ett strukturellt problem till ett individuellt, och om behovet av nya sätt att förstå psykisk hälsa i en tid av klimatkollaps och ekologisk kollaps. Men också om vägar framåt. Om att hitta mening i handling, om engagemang som motkraft till hopplöshet, och om kraften i att göra något tillsammans med andra.
